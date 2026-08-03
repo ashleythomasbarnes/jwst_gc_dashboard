@@ -26,6 +26,11 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Sync with latest main
+        run: git pull --ff-only origin main
 
       - name: Set up Python
         uses: actions/setup-python@v7
