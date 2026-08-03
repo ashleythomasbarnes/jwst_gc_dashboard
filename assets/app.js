@@ -1,6 +1,7 @@
 "use strict";
 
 const DATA_URL = "./data/visits.json";
+const FOOTPRINTS_URL = "./data/footprints.json";
 const THEME_KEY = "jwst-gc-dashboard-theme";
 const GROUP_LABELS = {
   neutral: "Flight Ready / Other",
@@ -11,6 +12,7 @@ const GROUP_LABELS = {
 
 const state = {
   data: null,
+  footprints: null,
   status: "all",
   search: "",
 };
@@ -28,12 +30,31 @@ const elements = {
   title: document.querySelector("#program-title"),
   sourceLink: document.querySelector("#source-link"),
   helpLink: document.querySelector("#help-link"),
+  coverageOrientation: document.querySelector("#coverage-orientation"),
+  coverageAttitudeNote: document.querySelector("#coverage-attitude-note"),
   themeToggle: document.querySelector("#theme-toggle"),
   themeColor: document.querySelector("#theme-color"),
   summaryButtons: [...document.querySelectorAll("[data-status-filter]")],
+  footprintMaps: [
+    {
+      instrument: "nircam",
+      label: "NIRCam",
+      canvas: document.querySelector("#nircam-map"),
+      count: document.querySelector("#nircam-map-count"),
+      loading: document.querySelector("#nircam-map-loading"),
+    },
+    {
+      instrument: "miri",
+      label: "MIRI",
+      canvas: document.querySelector("#miri-map"),
+      count: document.querySelector("#miri-map-count"),
+      loading: document.querySelector("#miri-map-loading"),
+    },
+  ],
 };
 
 const themeMedia = window.matchMedia("(prefers-color-scheme: dark)");
+let footprintRenderFrame = null;
 
 function currentTheme() {
   return document.documentElement.dataset.theme || (themeMedia.matches ? "dark" : "light");
@@ -56,6 +77,7 @@ function setTheme(theme) {
     // The theme still applies for this page view when storage is unavailable.
   }
   updateThemeControl();
+  scheduleFootprintRender();
 }
 
 function element(tag, className, text) {
@@ -160,6 +182,90 @@ function filteredVisits() {
   });
 }
 
+function statusColor(group) {
+  return getComputedStyle(document.documentElement).getPropertyValue(`--${group}`).trim();
+}
+
+function drawPolygon(context, polygon, color, width, height) {
+  context.beginPath();
+  polygon.forEach(([x, y], index) => {
+    const method = index === 0 ? "moveTo" : "lineTo";
+    context[method](x * width, y * height);
+  });
+  context.closePath();
+
+  context.globalAlpha = 0.11;
+  context.fillStyle = color;
+  context.fill();
+
+  context.globalAlpha = 0.48;
+  context.strokeStyle = "#031015";
+  context.lineWidth = 2.2;
+  context.stroke();
+
+  context.globalAlpha = 0.92;
+  context.strokeStyle = color;
+  context.lineWidth = 0.85;
+  context.stroke();
+}
+
+function renderFootprints() {
+  footprintRenderFrame = null;
+  if (!state.data || !state.footprints) return;
+
+  const visibleObservations = new Set(filteredVisits().map((visit) => visit.observation));
+  const visitsByObservation = new Map(state.data.visits.map((visit) => [visit.observation, visit]));
+  const statusOrder = { neutral: 0, scheduled: 1, completed: 2, failed: 3 };
+  const fields = state.footprints.fields
+    .filter((field) => visibleObservations.has(field.observation))
+    .sort((a, b) => {
+      const aGroup = visitsByObservation.get(a.observation)?.status_group || "neutral";
+      const bGroup = visitsByObservation.get(b.observation)?.status_group || "neutral";
+      return statusOrder[aGroup] - statusOrder[bGroup];
+    });
+
+  elements.footprintMaps.forEach((map) => {
+    const width = map.canvas.clientWidth;
+    const height = map.canvas.clientHeight;
+    if (!width || !height) return;
+
+    const pixelRatio = Math.min(window.devicePixelRatio || 1, 2);
+    map.canvas.width = Math.round(width * pixelRatio);
+    map.canvas.height = Math.round(height * pixelRatio);
+    const context = map.canvas.getContext("2d");
+    context.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
+    context.clearRect(0, 0, width, height);
+
+    fields.forEach((field) => {
+      const visit = visitsByObservation.get(field.observation);
+      const color = statusColor(visit?.status_group || "neutral");
+      field[map.instrument].forEach((polygon) => drawPolygon(context, polygon, color, width, height));
+    });
+    context.globalAlpha = 1;
+
+    const noun = fields.length === 1 ? "field" : "fields";
+    map.count.textContent = `${fields.length} ${noun}`;
+    map.canvas.setAttribute(
+      "aria-label",
+      `${map.label} nominal survey coverage showing ${fields.length} of ${state.data.visits.length} fields over a Spitzer 8 micron image`,
+    );
+    map.loading.hidden = true;
+  });
+}
+
+function scheduleFootprintRender() {
+  if (footprintRenderFrame !== null) cancelAnimationFrame(footprintRenderFrame);
+  footprintRenderFrame = requestAnimationFrame(renderFootprints);
+}
+
+function showFootprintError(message) {
+  elements.footprintMaps.forEach((map) => {
+    map.count.textContent = "Map unavailable";
+    map.loading.textContent = message;
+    map.loading.hidden = false;
+  });
+}
+
 function updateSelectedStatus() {
   elements.select.value = state.status;
   elements.summaryButtons.forEach((button) => {
@@ -180,6 +286,7 @@ function renderVisits() {
   elements.results.textContent = `Showing ${visits.length} of ${total} ${noun}`;
   elements.empty.hidden = visits.length !== 0;
   updateSelectedStatus();
+  scheduleFootprintRender();
 }
 
 function setCount(id, value) {
@@ -206,6 +313,12 @@ function validateData(data) {
   }
 }
 
+function validateFootprints(data) {
+  if (!data || data.program_id !== "10678" || !Array.isArray(data.fields) || data.fields.length === 0) {
+    throw new Error("The footprint data does not contain valid Program 10678 geometry");
+  }
+}
+
 async function loadDashboard() {
   try {
     const response = await fetch(DATA_URL, { cache: "no-cache" });
@@ -222,6 +335,26 @@ async function loadDashboard() {
     elements.loading.hidden = true;
     elements.error.hidden = false;
     elements.results.textContent = "Visit data unavailable";
+    showFootprintError("Visit status unavailable");
+  }
+}
+
+async function loadFootprints() {
+  try {
+    const response = await fetch(FOOTPRINTS_URL, { cache: "no-cache" });
+    if (!response.ok) throw new Error(`Footprint request failed with HTTP ${response.status}`);
+    const data = await response.json();
+    validateFootprints(data);
+    state.footprints = data;
+    elements.coverageOrientation.textContent = `Nominal planning geometry at V3PA ${data.nominal_v3pa_degrees}°`;
+    if (Array.isArray(data.approved_v3pa_range_degrees)) {
+      const [minimum, maximum] = data.approved_v3pa_range_degrees;
+      elements.coverageAttitudeNote.textContent = `The final on-sky orientation may differ within the approved ${minimum}–${maximum}° V3PA range.`;
+    }
+    scheduleFootprintRender();
+  } catch (error) {
+    console.error(error);
+    showFootprintError("Footprint geometry unavailable");
   }
 }
 
@@ -248,8 +381,19 @@ elements.themeToggle.addEventListener("click", () => {
 });
 
 themeMedia.addEventListener("change", () => {
-  if (!document.documentElement.dataset.theme) updateThemeControl();
+  if (!document.documentElement.dataset.theme) {
+    updateThemeControl();
+    scheduleFootprintRender();
+  }
 });
+
+if ("ResizeObserver" in window) {
+  const footprintResizeObserver = new ResizeObserver(scheduleFootprintRender);
+  elements.footprintMaps.forEach((map) => footprintResizeObserver.observe(map.canvas.parentElement));
+} else {
+  window.addEventListener("resize", scheduleFootprintRender);
+}
 
 updateThemeControl();
 loadDashboard();
+loadFootprints();

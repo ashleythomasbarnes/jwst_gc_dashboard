@@ -58,6 +58,70 @@
 
     <main id="dashboard">
       <div class="container dashboard-shell">
+        <section class="coverage" aria-labelledby="coverage-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow eyebrow--dark">Survey on the sky</p>
+              <h2 id="coverage-title">Planned coverage</h2>
+            </div>
+            <p class="source-time" id="coverage-orientation">Nominal planning geometry at V3PA 87°</p>
+          </div>
+
+          <div class="coverage-meta">
+            <p>The maps follow the field filters below and use the same live status colours.</p>
+            <div class="legend" aria-label="Map status colour legend">
+              <span class="status-neutral"><span class="status-dot" aria-hidden="true"></span>Flight Ready</span>
+              <span class="status-scheduled"><span class="status-dot" aria-hidden="true"></span>Scheduled</span>
+              <span class="status-completed"><span class="status-dot" aria-hidden="true"></span>Completed</span>
+              <span class="status-failed"><span class="status-dot" aria-hidden="true"></span>Failed</span>
+            </div>
+          </div>
+
+          <div class="coverage-plots">
+            <figure class="coverage-card">
+              <div class="coverage-card__header">
+                <div>
+                  <p class="coverage-card__instrument">NIRCam</p>
+                  <h3>Primary imaging footprint</h3>
+                  <p>Module A and B envelopes for each survey field</p>
+                </div>
+                <span class="coverage-card__count" id="nircam-map-count">Loading fields…</span>
+              </div>
+              <div class="footprint-map">
+                <img src="./assets/spitzer-irac4.webp" alt="" width="1600" height="731" decoding="async">
+                <canvas id="nircam-map" role="img" aria-label="Nominal NIRCam survey coverage over a Spitzer 8 micron image"></canvas>
+                <span class="footprint-map__loading" id="nircam-map-loading">Loading NIRCam footprints…</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--frame">Galactic coordinates</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--left">ℓ +1.25°</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--right">ℓ −1.05°</span>
+              </div>
+            </figure>
+
+            <figure class="coverage-card">
+              <div class="coverage-card__header">
+                <div>
+                  <p class="coverage-card__instrument">MIRI</p>
+                  <h3>Coordinated-parallel footprint</h3>
+                  <p>MIRI field of view associated with each NIRCam pointing</p>
+                </div>
+                <span class="coverage-card__count" id="miri-map-count">Loading fields…</span>
+              </div>
+              <div class="footprint-map">
+                <img src="./assets/spitzer-irac4.webp" alt="" width="1600" height="731" decoding="async">
+                <canvas id="miri-map" role="img" aria-label="Nominal MIRI coordinated-parallel coverage over a Spitzer 8 micron image"></canvas>
+                <span class="footprint-map__loading" id="miri-map-loading">Loading MIRI footprints…</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--frame">Galactic coordinates</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--left">ℓ +1.25°</span>
+                <span class="footprint-map__coordinate footprint-map__coordinate--right">ℓ −1.05°</span>
+              </div>
+            </figure>
+          </div>
+
+          <p class="coverage-source">
+            Footprints derived from the <a href="https://www.stsci.edu/jwst-program-info/download/jwst/apt/10678/">Program 10678 APT file</a> using the matching JWST SIAF. Background: Spitzer/IRAC 8 μm. <span id="coverage-attitude-note">The final on-sky orientation may differ within the approved 79–95° V3PA range.</span>
+          </p>
+        </section>
+
         <section class="summary" aria-labelledby="summary-title">
           <div class="section-heading">
             <div>
