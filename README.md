@@ -8,7 +8,7 @@ The site is designed for GitHub Pages at:
 
 ## What it shows
 
-Each STScI visit is shown as a field card with its target, exact visit status, observation and visit numbers, observing modes, charged time, and either its Plan Window or actual start/end time.
+Each STScI visit is shown as a field card with its target, exact visit status, observation and visit numbers, observing modes, charged time, and either its Plan Window or actual start/end time. Two sky maps show the nominal NIRCam and coordinated-parallel MIRI footprints over Spitzer/IRAC 8 μm emission. The map overlays follow the same status and search filters as the field cards.
 
 The colours group the original STScI status without replacing its wording:
 
@@ -33,6 +33,23 @@ python3 -m http.server 8000
 ```
 
 Then open <http://localhost:8000>.
+
+## Rebuild the footprint maps
+
+The committed WebP background and footprint JSON are served directly, so the daily GitHub workflow does not install astronomy packages or process FITS data. Rebuild them locally only when the APT geometry changes:
+
+```bash
+python -m pip install pysiaf pillow
+python scripts/build_footprints.py
+```
+
+The builder downloads the current Program 10678 APT file and uses this local Spitzer mosaic by default:
+
+```text
+/Users/abarnes/Library/CloudStorage/Dropbox/Data/Galactic/Spitzer/GLIMPSE/cmz/GLM_00000+0000_mosaic_I4-8micron_beam_36-11.5.fits
+```
+
+The APT file currently allows V3PA 79–95°. The maps use the midpoint, 87°, as a labelled nominal planning orientation until an exact on-sky attitude is available.
 
 ## GitHub Pages automation
 
