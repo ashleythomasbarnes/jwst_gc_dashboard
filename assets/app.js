@@ -1,6 +1,7 @@
 "use strict";
 
 const DATA_URL = "./data/visits.json";
+const THEME_KEY = "jwst-gc-dashboard-theme";
 const GROUP_LABELS = {
   neutral: "Flight Ready / Other",
   scheduled: "Scheduled",
@@ -27,8 +28,35 @@ const elements = {
   title: document.querySelector("#program-title"),
   sourceLink: document.querySelector("#source-link"),
   helpLink: document.querySelector("#help-link"),
+  themeToggle: document.querySelector("#theme-toggle"),
+  themeColor: document.querySelector("#theme-color"),
   summaryButtons: [...document.querySelectorAll("[data-status-filter]")],
 };
+
+const themeMedia = window.matchMedia("(prefers-color-scheme: dark)");
+
+function currentTheme() {
+  return document.documentElement.dataset.theme || (themeMedia.matches ? "dark" : "light");
+}
+
+function updateThemeControl() {
+  const theme = currentTheme();
+  const nextTheme = theme === "dark" ? "light" : "dark";
+  const label = `Switch to ${nextTheme} theme`;
+  elements.themeToggle.setAttribute("aria-label", label);
+  elements.themeToggle.title = label;
+  elements.themeColor.content = theme === "dark" ? "#0b1418" : "#f3f6f7";
+}
+
+function setTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  try {
+    localStorage.setItem(THEME_KEY, theme);
+  } catch (error) {
+    // The theme still applies for this page view when storage is unavailable.
+  }
+  updateThemeControl();
+}
 
 function element(tag, className, text) {
   const node = document.createElement(tag);
@@ -215,4 +243,13 @@ elements.summaryButtons.forEach((button) => {
   });
 });
 
+elements.themeToggle.addEventListener("click", () => {
+  setTheme(currentTheme() === "dark" ? "light" : "dark");
+});
+
+themeMedia.addEventListener("change", () => {
+  if (!document.documentElement.dataset.theme) updateThemeControl();
+});
+
+updateThemeControl();
 loadDashboard();
