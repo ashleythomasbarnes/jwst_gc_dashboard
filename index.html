@@ -3,15 +3,34 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#101923">
+    <meta name="theme-color" content="#f3f6f7" id="theme-color">
     <meta name="description" content="Daily visit-status dashboard for JWST Program 10678, the JWST/NIRCam Legacy Survey of the Galactic Center.">
     <title>JWST Galactic Center Survey Status</title>
     <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+    <script>
+      try {
+        const savedTheme = localStorage.getItem("jwst-gc-dashboard-theme");
+        if (savedTheme === "light" || savedTheme === "dark") {
+          document.documentElement.dataset.theme = savedTheme;
+        }
+      } catch (error) {
+        // The system colour preference remains the fallback when storage is unavailable.
+      }
+    </script>
     <link rel="stylesheet" href="./assets/styles.css">
     <script src="./assets/app.js" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#dashboard">Skip to dashboard</a>
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch colour theme">
+      <svg class="theme-toggle__icon theme-toggle__moon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M20.2 15.3A8.5 8.5 0 0 1 8.7 3.8 8.5 8.5 0 1 0 20.2 15.3Z"></path>
+      </svg>
+      <svg class="theme-toggle__icon theme-toggle__sun" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="3.5"></circle>
+        <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+      </svg>
+    </button>
 
     <header class="hero">
       <div class="hero__glow" aria-hidden="true"></div>
