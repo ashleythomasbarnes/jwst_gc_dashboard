@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visitStatusReport observatory="JWST" id="10678">
+  <title>Status cases</title>
+  <reportTime>Mon Aug 03 05:55:00 EDT 2026</reportTime>
+  <visit observation="1" visit="1">
+    <status>Scheduled</status>
+    <target>GC-SCHEDULED</target>
+    <configuration>NIRCam Imaging</configuration>
+    <hours>1.00</hours>
+    <startTime>Aug 8, 2026 01:00:00</startTime>
+    <endTime>Aug 8, 2026 02:00:00</endTime>
+  </visit>
+  <visit observation="2" visit="1">
+    <status>Failed - Archived</status>
+    <target>GC-FAILED</target>
+    <configuration>MIRI Imaging</configuration>
+    <hours>1.20</hours>
+    <startTime>Aug 9, 2026 01:00:00</startTime>
+    <endTime>Aug 9, 2026 01:20:00</endTime>
+  </visit>
+  <visit observation="3" visit="1">
+    <status>Future Status</status>
+    <target>GC-FUTURE</target>
+    <hours>0.50</hours>
+  </visit>
+</visitStatusReport>

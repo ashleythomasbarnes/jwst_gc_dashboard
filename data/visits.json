@@ -1,0 +1,2800 @@
+{
+  "fetched_at": "2026-08-03T10:10:34Z",
+  "program": {
+    "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
+    "id": "10678",
+    "source_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678",
+    "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
+    "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
+  },
+  "report_time": "Mon Aug 03 06:10:34 EDT 2026",
+  "status_counts": {
+    "completed": 0,
+    "failed": 0,
+    "neutral": 139,
+    "scheduled": 0
+  },
+  "visit_count": 139,
+  "visits": [
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:1:1",
+      "observation": "1",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_1"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:2:1",
+      "observation": "2",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_2"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:3:1",
+      "observation": "3",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_3"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:4:1",
+      "observation": "4",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_4"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:5:1",
+      "observation": "5",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_5"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:6:1",
+      "observation": "6",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_6"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:7:1",
+      "observation": "7",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_7"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:8:1",
+      "observation": "8",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_8"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:9:1",
+      "observation": "9",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_9"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:10:1",
+      "observation": "10",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_10"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:11:1",
+      "observation": "11",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_11"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.47,
+      "id": "10678:12:1",
+      "observation": "12",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_12"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:13:1",
+      "observation": "13",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_13"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:14:1",
+      "observation": "14",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_14"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:15:1",
+      "observation": "15",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_15"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:16:1",
+      "observation": "16",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_16"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:17:1",
+      "observation": "17",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_17"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:18:1",
+      "observation": "18",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_18"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:19:1",
+      "observation": "19",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_19"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:20:1",
+      "observation": "20",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_20"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:21:1",
+      "observation": "21",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_21"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.03,
+      "id": "10678:22:1",
+      "observation": "22",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_22"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:23:1",
+      "observation": "23",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_23"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:24:1",
+      "observation": "24",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_24"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:25:1",
+      "observation": "25",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_25"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:26:1",
+      "observation": "26",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_26"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:27:1",
+      "observation": "27",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_27"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:28:1",
+      "observation": "28",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_28"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:29:1",
+      "observation": "29",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_29"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:30:1",
+      "observation": "30",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_30"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:31:1",
+      "observation": "31",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_31"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:32:1",
+      "observation": "32",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_32"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:33:1",
+      "observation": "33",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_33"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:34:1",
+      "observation": "34",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_34"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:35:1",
+      "observation": "35",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_35"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:36:1",
+      "observation": "36",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_36"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:37:1",
+      "observation": "37",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_37"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:38:1",
+      "observation": "38",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_38"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:39:1",
+      "observation": "39",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_39"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:40:1",
+      "observation": "40",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_40"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:41:1",
+      "observation": "41",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_41"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:42:1",
+      "observation": "42",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_42"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:43:1",
+      "observation": "43",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_43"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:44:1",
+      "observation": "44",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_44"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:45:1",
+      "observation": "45",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_45"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:46:1",
+      "observation": "46",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_46"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:47:1",
+      "observation": "47",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_47"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:48:1",
+      "observation": "48",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_48"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:49:1",
+      "observation": "49",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_49"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:50:1",
+      "observation": "50",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_50"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:51:1",
+      "observation": "51",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_51"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:52:1",
+      "observation": "52",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_52"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:53:1",
+      "observation": "53",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_53"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:54:1",
+      "observation": "54",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_54"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:55:1",
+      "observation": "55",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_55"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:56:1",
+      "observation": "56",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_56"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:57:1",
+      "observation": "57",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_57"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:58:1",
+      "observation": "58",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_58"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:59:1",
+      "observation": "59",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_59"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:60:1",
+      "observation": "60",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_60"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:61:1",
+      "observation": "61",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_61"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:62:1",
+      "observation": "62",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_62"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:63:1",
+      "observation": "63",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_63"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:64:1",
+      "observation": "64",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_64"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:65:1",
+      "observation": "65",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_65"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:66:1",
+      "observation": "66",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_66"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:67:1",
+      "observation": "67",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_67"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:68:1",
+      "observation": "68",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_68"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:69:1",
+      "observation": "69",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_69"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:70:1",
+      "observation": "70",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_70"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:71:1",
+      "observation": "71",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_71"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.02,
+      "id": "10678:72:1",
+      "observation": "72",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_72"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:73:1",
+      "observation": "73",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_73"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:74:1",
+      "observation": "74",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_74"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:75:1",
+      "observation": "75",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_75"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:76:1",
+      "observation": "76",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_76"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:77:1",
+      "observation": "77",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_77"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:78:1",
+      "observation": "78",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_78"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:79:1",
+      "observation": "79",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_79"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:80:1",
+      "observation": "80",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_80"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:81:1",
+      "observation": "81",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_81"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:82:1",
+      "observation": "82",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_82"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:83:1",
+      "observation": "83",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_83"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:84:1",
+      "observation": "84",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_84"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:85:1",
+      "observation": "85",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_85"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:86:1",
+      "observation": "86",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_86"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:87:1",
+      "observation": "87",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_87"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:88:1",
+      "observation": "88",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_88"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:89:1",
+      "observation": "89",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_89"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:90:1",
+      "observation": "90",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_90"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:91:1",
+      "observation": "91",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_91"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:92:1",
+      "observation": "92",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_92"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:93:1",
+      "observation": "93",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_93"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:94:1",
+      "observation": "94",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_94"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:95:1",
+      "observation": "95",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_95"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:96:1",
+      "observation": "96",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_96"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:97:1",
+      "observation": "97",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_97"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:98:1",
+      "observation": "98",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_98"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:99:1",
+      "observation": "99",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_99"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:100:1",
+      "observation": "100",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_100"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:101:1",
+      "observation": "101",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_101"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:102:1",
+      "observation": "102",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_102"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:103:1",
+      "observation": "103",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_103"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:104:1",
+      "observation": "104",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_104"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:105:1",
+      "observation": "105",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_105"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:106:1",
+      "observation": "106",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_106"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:107:1",
+      "observation": "107",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_107"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:108:1",
+      "observation": "108",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_108"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:109:1",
+      "observation": "109",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_109"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:110:1",
+      "observation": "110",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_110"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:111:1",
+      "observation": "111",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_111"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:112:1",
+      "observation": "112",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_112"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:113:1",
+      "observation": "113",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_113"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:114:1",
+      "observation": "114",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_114"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:115:1",
+      "observation": "115",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_115"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.92,
+      "id": "10678:116:1",
+      "observation": "116",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_116"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:117:1",
+      "observation": "117",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_117"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:118:1",
+      "observation": "118",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_118"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:119:1",
+      "observation": "119",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_119"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.98,
+      "id": "10678:120:1",
+      "observation": "120",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_120"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:121:1",
+      "observation": "121",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_121"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:122:1",
+      "observation": "122",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_122"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:123:1",
+      "observation": "123",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_123"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:124:1",
+      "observation": "124",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_124"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:125:1",
+      "observation": "125",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_125"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:126:1",
+      "observation": "126",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_126"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:127:1",
+      "observation": "127",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_127"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:128:1",
+      "observation": "128",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_128"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:129:1",
+      "observation": "129",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_129"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:130:1",
+      "observation": "130",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_130"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.93,
+      "id": "10678:131:1",
+      "observation": "131",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_131"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.91,
+      "id": "10678:132:1",
+      "observation": "132",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_132"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.95,
+      "id": "10678:133:1",
+      "observation": "133",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_133"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.96,
+      "id": "10678:134:1",
+      "observation": "134",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_134"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.02,
+      "id": "10678:135:1",
+      "observation": "135",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_135"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.99,
+      "id": "10678:136:1",
+      "observation": "136",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_136"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 0.94,
+      "id": "10678:137:1",
+      "observation": "137",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_137"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.47,
+      "id": "10678:138:1",
+      "observation": "138",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_138"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.03,
+      "id": "10678:139:1",
+      "observation": "139",
+      "plan_windows": [
+        "Aug 5, 2026 - Sep 24, 2026 (2026.217 - 2026.267)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
+      "targets": [
+        "GC_139"
+      ],
+      "visit": "1"
+    }
+  ]
+}

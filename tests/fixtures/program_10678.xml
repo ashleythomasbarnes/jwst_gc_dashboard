@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visitStatusReport observatory="JWST" id="10678">
+  <title>Visit Information</title>
+  <reportTime>Mon Aug 03 05:50:37 EDT 2026</reportTime>
+  <visit observation="10" visit="1">
+    <status>Flight Ready</status>
+    <target>GC_10</target>
+    <configuration>NIRCam Imaging</configuration>
+    <configuration>MIRI Imaging</configuration>
+    <hours>0.93</hours>
+    <planWindow>Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)</planWindow>
+  </visit>
+  <visit observation="2" visit="1">
+    <status>Flight Ready</status>
+    <target>GC_2</target>
+    <target>GC_2-BACKGROUND</target>
+    <configuration>NIRCam Imaging</configuration>
+    <hours>0.96</hours>
+    <planWindow>Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)</planWindow>
+  </visit>
+</visitStatusReport>

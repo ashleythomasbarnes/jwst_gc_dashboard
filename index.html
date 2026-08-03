@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#101923">
+    <meta name="description" content="Daily visit-status dashboard for JWST Program 10678, the JWST/NIRCam Legacy Survey of the Galactic Center.">
+    <title>JWST Galactic Center Survey Status</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./assets/styles.css">
+    <script src="./assets/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#dashboard">Skip to dashboard</a>
+
+    <header class="hero">
+      <div class="hero__glow" aria-hidden="true"></div>
+      <div class="container hero__content">
+        <div class="program-mark">
+          <span class="program-mark__mission">JWST</span>
+          <span class="program-mark__divider" aria-hidden="true"></span>
+          <span>Program 10678</span>
+        </div>
+        <p class="eyebrow">Visit status dashboard</p>
+        <h1>Galactic Center<br>Legacy Survey</h1>
+        <p class="hero__description" id="program-title">The JWST/NIRCam Legacy Survey of the Galactic Center</p>
+        <div class="hero__actions">
+          <a class="button button--primary" id="source-link" href="https://www.stsci.edu/jwst-program-info/visits/?program=10678">View STScI report <span aria-hidden="true">↗</span></a>
+          <a class="button button--ghost" id="help-link" href="https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status">Status definitions</a>
+        </div>
+        <p class="refresh-note">
+          <span class="refresh-note__pulse" aria-hidden="true"></span>
+          Refreshed automatically each day
+          <span class="refresh-note__separator" aria-hidden="true">·</span>
+          <span id="last-updated">Loading latest data…</span>
+        </p>
+      </div>
+    </header>
+
+    <main id="dashboard">
+      <div class="container dashboard-shell">
+        <section class="summary" aria-labelledby="summary-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow eyebrow--dark">Programme at a glance</p>
+              <h2 id="summary-title">Field status</h2>
+            </div>
+            <p class="source-time" id="source-time"></p>
+          </div>
+
+          <div class="summary-grid" aria-label="Filter fields by status">
+            <button class="summary-card summary-card--total is-active" type="button" data-status-filter="all" aria-pressed="true">
+              <span class="summary-card__label">All fields</span>
+              <strong class="summary-card__count" id="count-total">—</strong>
+              <span class="summary-card__hint">Show full programme</span>
+            </button>
+            <button class="summary-card status-neutral" type="button" data-status-filter="neutral" aria-pressed="false">
+              <span class="summary-card__label"><span class="status-dot" aria-hidden="true"></span>Flight Ready / Other</span>
+              <strong class="summary-card__count" id="count-neutral">—</strong>
+              <span class="summary-card__hint">Awaiting or inactive</span>
+            </button>
+            <button class="summary-card status-scheduled" type="button" data-status-filter="scheduled" aria-pressed="false">
+              <span class="summary-card__label"><span class="status-dot" aria-hidden="true"></span>Scheduled</span>
+              <strong class="summary-card__count" id="count-scheduled">—</strong>
+              <span class="summary-card__hint">On the flight plan</span>
+            </button>
+            <button class="summary-card status-completed" type="button" data-status-filter="completed" aria-pressed="false">
+              <span class="summary-card__label"><span class="status-dot" aria-hidden="true"></span>Completed</span>
+              <strong class="summary-card__count" id="count-completed">—</strong>
+              <span class="summary-card__hint">Executed or archived</span>
+            </button>
+            <button class="summary-card status-failed" type="button" data-status-filter="failed" aria-pressed="false">
+              <span class="summary-card__label"><span class="status-dot" aria-hidden="true"></span>Failed</span>
+              <strong class="summary-card__count" id="count-failed">—</strong>
+              <span class="summary-card__hint">Needs attention</span>
+            </button>
+          </div>
+        </section>
+
+        <section class="visits" aria-labelledby="visits-title">
+          <div class="visits-toolbar">
+            <div>
+              <p class="eyebrow eyebrow--dark">Target inventory</p>
+              <h2 id="visits-title">Survey fields</h2>
+            </div>
+            <div class="controls" role="search">
+              <label class="search-control">
+                <span class="sr-only">Search fields</span>
+                <span class="search-control__icon" aria-hidden="true"></span>
+                <input id="search-input" type="search" placeholder="Search target or observation" autocomplete="off">
+              </label>
+              <label class="select-control">
+                <span class="sr-only">Filter by status</span>
+                <select id="status-select">
+                  <option value="all">All statuses</option>
+                  <option value="neutral">Flight Ready / Other</option>
+                  <option value="scheduled">Scheduled</option>
+                  <option value="completed">Completed</option>
+                  <option value="failed">Failed</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="results-row">
+            <p id="results-count" aria-live="polite">Loading survey fields…</p>
+            <div class="legend" aria-label="Status colour legend">
+              <span class="status-neutral"><span class="status-dot" aria-hidden="true"></span>Flight Ready</span>
+              <span class="status-scheduled"><span class="status-dot" aria-hidden="true"></span>Scheduled</span>
+              <span class="status-completed"><span class="status-dot" aria-hidden="true"></span>Completed</span>
+              <span class="status-failed"><span class="status-dot" aria-hidden="true"></span>Failed</span>
+            </div>
+          </div>
+
+          <div class="loading-panel" id="loading-panel" role="status">
+            <span class="loading-panel__spinner" aria-hidden="true"></span>
+            Loading the latest STScI visit report…
+          </div>
+          <div class="error-panel" id="error-panel" role="alert" hidden>
+            <strong>Visit information is temporarily unavailable.</strong>
+            <span>The latest data file could not be loaded. Please check the <a href="https://www.stsci.edu/jwst-program-info/visits/?program=10678">source report</a>.</span>
+          </div>
+          <div class="visit-grid" id="visit-grid"></div>
+          <div class="empty-panel" id="empty-panel" hidden>
+            <strong>No matching fields</strong>
+            <span>Try a different target name or status filter.</span>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <footer>
+      <div class="container footer-content">
+        <p>Independent status view for JWST Program 10678.</p>
+        <p>Authoritative information is provided by the <a href="https://www.stsci.edu/jwst-program-info/visits/?program=10678">Space Telescope Science Institute</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>
