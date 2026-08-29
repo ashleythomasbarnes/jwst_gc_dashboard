@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T18:42:33Z",
+  "fetched_at": "2026-08-29T12:41:06Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,7 +7,7 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Fri Aug 28 14:42:33 EDT 2026",
+  "report_time": "Sat Aug 29 08:41:06 EDT 2026",
   "status_counts": {
     "completed": 0,
     "failed": 0,
@@ -21,12 +21,12 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 4, 2026 12:53:44",
+      "end_time": "Sep 3, 2026 13:39:58",
       "hours": 0.95,
       "id": "10678:1:1",
       "observation": "1",
       "plan_windows": [],
-      "start_time": "Sep 4, 2026 12:14:17",
+      "start_time": "Sep 3, 2026 13:00:31",
       "status": "Scheduled",
       "status_group": "scheduled",
       "targets": [
