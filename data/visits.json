@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:14:47Z",
+  "fetched_at": "2026-09-04T11:18:15Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,7 +7,7 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Thu Sep 03 07:14:47 EDT 2026",
+  "report_time": "Fri Sep 04 07:18:15 EDT 2026",
   "status_counts": {
     "completed": 0,
     "failed": 0,
@@ -26,10 +26,10 @@
       "id": "10678:1:1",
       "observation": "1",
       "plan_windows": [
-        "Sep 4, 2026 - Sep 4, 2026 (2026.247 - 2026.247)"
+        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_1"
@@ -49,7 +49,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_2"
@@ -69,7 +69,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_3"
@@ -89,7 +89,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_4"
@@ -109,7 +109,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_5"
@@ -129,7 +129,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_6"
@@ -149,7 +149,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_7"
@@ -169,7 +169,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_8"
@@ -189,7 +189,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_9"
@@ -209,7 +209,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_10"
@@ -229,7 +229,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_11"
@@ -249,7 +249,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_12"
@@ -269,7 +269,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_13"
@@ -289,7 +289,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_14"
@@ -309,7 +309,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_15"
@@ -329,7 +329,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_16"
@@ -349,7 +349,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_17"
@@ -369,7 +369,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_18"
@@ -389,7 +389,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_19"
@@ -409,7 +409,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_20"
@@ -429,7 +429,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_21"
@@ -449,7 +449,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_22"
@@ -469,7 +469,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_23"
@@ -489,7 +489,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_24"
@@ -509,7 +509,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_25"
@@ -529,7 +529,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_26"
@@ -549,7 +549,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_27"
@@ -569,7 +569,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_28"
@@ -589,7 +589,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_29"
@@ -609,7 +609,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_30"
@@ -629,7 +629,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_31"
@@ -649,7 +649,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_32"
@@ -669,7 +669,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_33"
@@ -689,7 +689,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_34"
@@ -709,7 +709,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_35"
@@ -729,7 +729,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_36"
@@ -749,7 +749,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_37"
@@ -769,7 +769,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_38"
@@ -789,7 +789,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_39"
@@ -809,7 +809,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_40"
@@ -829,7 +829,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_41"
@@ -849,7 +849,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_42"
@@ -869,7 +869,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_43"
@@ -889,7 +889,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_44"
@@ -909,7 +909,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_45"
@@ -929,7 +929,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_46"
@@ -949,7 +949,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_47"
@@ -969,7 +969,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_48"
@@ -989,7 +989,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_49"
@@ -1009,7 +1009,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_50"
@@ -1029,7 +1029,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_51"
@@ -1049,7 +1049,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_52"
@@ -1069,7 +1069,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_53"
@@ -1089,7 +1089,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_54"
@@ -1109,7 +1109,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_55"
@@ -1129,7 +1129,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_56"
@@ -1149,7 +1149,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_57"
@@ -1169,7 +1169,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_58"
@@ -1189,7 +1189,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_59"
@@ -1209,7 +1209,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_60"
@@ -1229,7 +1229,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_61"
@@ -1249,7 +1249,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_62"
@@ -1269,7 +1269,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_63"
@@ -1289,7 +1289,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_64"
@@ -1309,7 +1309,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_65"
@@ -1329,7 +1329,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_66"
@@ -1349,7 +1349,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_67"
@@ -1369,7 +1369,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_68"
@@ -1389,7 +1389,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_69"
@@ -1409,7 +1409,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_70"
@@ -1429,7 +1429,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_71"
@@ -1449,7 +1449,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_72"
@@ -1469,7 +1469,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_73"
@@ -1489,7 +1489,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_74"
@@ -1509,7 +1509,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_75"
@@ -1529,7 +1529,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_76"
@@ -1549,7 +1549,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_77"
@@ -1569,7 +1569,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_78"
@@ -1589,7 +1589,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_79"
@@ -1609,7 +1609,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_80"
@@ -1629,7 +1629,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_81"
@@ -1649,7 +1649,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_82"
@@ -1669,7 +1669,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_83"
@@ -1689,7 +1689,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_84"
@@ -1709,7 +1709,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_85"
@@ -1729,7 +1729,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_86"
@@ -1749,7 +1749,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_87"
