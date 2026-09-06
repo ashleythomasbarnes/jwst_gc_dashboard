@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:35:46Z",
+  "fetched_at": "2026-09-06T10:56:32Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,12 +7,12 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Sat Sep 05 06:35:46 EDT 2026",
+  "report_time": "Sun Sep 06 06:56:32 EDT 2026",
   "status_counts": {
     "completed": 0,
     "failed": 0,
-    "neutral": 87,
-    "scheduled": 52
+    "neutral": 139,
+    "scheduled": 0
   },
   "visit_count": 139,
   "visits": [
@@ -29,7 +29,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_1"
@@ -49,7 +49,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_2"
@@ -69,7 +69,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_3"
@@ -89,7 +89,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_4"
@@ -109,7 +109,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_5"
@@ -129,7 +129,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_6"
@@ -149,7 +149,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_7"
@@ -169,7 +169,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_8"
@@ -189,7 +189,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_9"
@@ -209,7 +209,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_10"
@@ -229,7 +229,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_11"
@@ -249,7 +249,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_12"
@@ -269,7 +269,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_13"
@@ -289,7 +289,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_14"
@@ -309,7 +309,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_15"
@@ -329,7 +329,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_16"
@@ -349,7 +349,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_17"
@@ -369,7 +369,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_18"
@@ -389,7 +389,7 @@
         "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_19"
@@ -409,7 +409,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_20"
@@ -429,7 +429,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_21"
@@ -449,7 +449,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_22"
@@ -469,7 +469,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_23"
@@ -489,7 +489,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_24"
@@ -509,7 +509,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_25"
@@ -529,7 +529,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_26"
@@ -549,7 +549,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_27"
@@ -569,7 +569,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_28"
@@ -589,7 +589,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_29"
@@ -609,7 +609,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_30"
@@ -629,7 +629,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_31"
@@ -649,7 +649,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_32"
@@ -669,7 +669,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_33"
@@ -689,7 +689,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_34"
@@ -709,7 +709,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_35"
@@ -729,7 +729,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_36"
@@ -749,7 +749,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_37"
@@ -769,7 +769,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_38"
@@ -789,7 +789,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_39"
@@ -809,7 +809,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_40"
@@ -829,7 +829,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_41"
@@ -849,7 +849,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_42"
@@ -869,7 +869,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_43"
@@ -889,7 +889,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_44"
@@ -909,7 +909,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_45"
@@ -929,7 +929,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_46"
@@ -949,7 +949,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_47"
@@ -969,7 +969,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_48"
@@ -989,7 +989,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_49"
@@ -1009,7 +1009,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_50"
@@ -1029,7 +1029,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_51"
@@ -1049,7 +1049,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_52"
@@ -1069,7 +1069,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_53"
@@ -1089,7 +1089,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_54"
@@ -1109,7 +1109,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_55"
@@ -1129,7 +1129,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_56"
@@ -1149,7 +1149,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_57"
@@ -1169,7 +1169,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_58"
@@ -1189,7 +1189,7 @@
         "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_59"
@@ -1209,7 +1209,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_60"
@@ -1229,7 +1229,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_61"
@@ -1249,7 +1249,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_62"
@@ -1269,7 +1269,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_63"
@@ -1289,7 +1289,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_64"
@@ -1309,7 +1309,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_65"
@@ -1329,7 +1329,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_66"
@@ -1349,7 +1349,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_67"
@@ -1369,7 +1369,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_68"
@@ -1389,7 +1389,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_69"
@@ -1409,7 +1409,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_70"
@@ -1429,7 +1429,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_71"
@@ -1449,7 +1449,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_72"
@@ -1469,7 +1469,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_73"
@@ -1489,7 +1489,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_74"
@@ -1509,7 +1509,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_75"
@@ -1529,7 +1529,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_76"
@@ -1549,7 +1549,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_77"
@@ -1569,7 +1569,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_78"
@@ -1589,7 +1589,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_79"
@@ -1609,7 +1609,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_80"
@@ -1629,7 +1629,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_81"
@@ -1649,7 +1649,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_82"
@@ -1669,7 +1669,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_83"
@@ -1689,7 +1689,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_84"
@@ -1709,7 +1709,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_85"
@@ -1729,7 +1729,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_86"
@@ -1749,7 +1749,7 @@
         "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
       ],
       "start_time": null,
-      "status": "Implementation",
+      "status": "Flight Ready",
       "status_group": "neutral",
       "targets": [
         "GC_87"
@@ -1761,14 +1761,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 16:40:22",
+      "end_time": null,
       "hours": 0.98,
       "id": "10678:88:1",
       "observation": "88",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 16:00:55",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_88"
       ],
@@ -1779,14 +1781,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 16:00:54",
+      "end_time": null,
       "hours": 0.98,
       "id": "10678:89:1",
       "observation": "89",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 15:21:27",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_89"
       ],
@@ -1797,14 +1801,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 15:21:26",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:90:1",
       "observation": "90",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 14:41:59",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_90"
       ],
@@ -1815,14 +1821,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 14:41:58",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:91:1",
       "observation": "91",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 14:02:31",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_91"
       ],
@@ -1833,14 +1841,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 14:02:30",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:92:1",
       "observation": "92",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 13:23:03",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_92"
       ],
@@ -1851,14 +1861,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 13:23:02",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:93:1",
       "observation": "93",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 12:43:35",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_93"
       ],
@@ -1869,14 +1881,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 12:43:34",
+      "end_time": null,
       "hours": 0.92,
       "id": "10678:94:1",
       "observation": "94",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 12:04:07",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_94"
       ],
@@ -1887,14 +1901,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 12:04:06",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:95:1",
       "observation": "95",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 11:24:39",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_95"
       ],
@@ -1905,14 +1921,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 11:24:38",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:96:1",
       "observation": "96",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 10:45:11",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_96"
       ],
@@ -1923,14 +1941,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 10:45:10",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:97:1",
       "observation": "97",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 10:05:43",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_97"
       ],
@@ -1941,14 +1961,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 10:05:42",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:98:1",
       "observation": "98",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 09:26:15",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_98"
       ],
@@ -1959,14 +1981,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 09:26:14",
+      "end_time": null,
       "hours": 0.99,
       "id": "10678:99:1",
       "observation": "99",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 08:46:47",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_99"
       ],
@@ -1977,14 +2001,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 08:46:46",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:100:1",
       "observation": "100",
-      "plan_windows": [],
-      "start_time": "Sep 13, 2026 08:07:19",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_100"
       ],
@@ -1995,14 +2021,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 18:21:45",
+      "end_time": null,
       "hours": 0.99,
       "id": "10678:101:1",
       "observation": "101",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 17:42:18",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_101"
       ],
@@ -2013,14 +2041,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 17:42:17",
+      "end_time": null,
       "hours": 0.92,
       "id": "10678:102:1",
       "observation": "102",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 17:02:50",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_102"
       ],
@@ -2031,14 +2061,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 17:02:49",
+      "end_time": null,
       "hours": 0.96,
       "id": "10678:103:1",
       "observation": "103",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 16:23:22",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_103"
       ],
@@ -2049,14 +2081,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 16:23:21",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:104:1",
       "observation": "104",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 15:43:54",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_104"
       ],
@@ -2067,14 +2101,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 15:43:53",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:105:1",
       "observation": "105",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 15:04:26",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_105"
       ],
@@ -2085,14 +2121,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 15:04:25",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:106:1",
       "observation": "106",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 14:24:58",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_106"
       ],
@@ -2103,14 +2141,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 14:24:57",
+      "end_time": null,
       "hours": 0.97,
       "id": "10678:107:1",
       "observation": "107",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 13:45:30",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_107"
       ],
@@ -2121,14 +2161,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 13:45:29",
+      "end_time": null,
       "hours": 0.98,
       "id": "10678:108:1",
       "observation": "108",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 13:06:02",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_108"
       ],
@@ -2139,14 +2181,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 13:06:01",
+      "end_time": null,
       "hours": 0.97,
       "id": "10678:109:1",
       "observation": "109",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 12:26:34",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_109"
       ],
@@ -2157,14 +2201,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 12:26:33",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:110:1",
       "observation": "110",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 11:47:06",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_110"
       ],
@@ -2175,14 +2221,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 11:47:05",
+      "end_time": null,
       "hours": 0.97,
       "id": "10678:111:1",
       "observation": "111",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 11:07:38",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_111"
       ],
@@ -2193,14 +2241,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 11:07:37",
+      "end_time": null,
       "hours": 0.91,
       "id": "10678:112:1",
       "observation": "112",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 10:28:10",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_112"
       ],
@@ -2211,14 +2261,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 10:28:09",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:113:1",
       "observation": "113",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 09:48:42",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_113"
       ],
@@ -2229,14 +2281,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 09:48:41",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:114:1",
       "observation": "114",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 09:09:14",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_114"
       ],
@@ -2247,14 +2301,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 09:09:13",
+      "end_time": null,
       "hours": 0.91,
       "id": "10678:115:1",
       "observation": "115",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 08:29:46",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_115"
       ],
@@ -2265,14 +2321,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 08:29:45",
+      "end_time": null,
       "hours": 0.92,
       "id": "10678:116:1",
       "observation": "116",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 07:50:18",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_116"
       ],
@@ -2283,14 +2341,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 07:50:17",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:117:1",
       "observation": "117",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 07:10:50",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_117"
       ],
@@ -2301,14 +2361,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 07:10:49",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:118:1",
       "observation": "118",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 06:31:22",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_118"
       ],
@@ -2319,14 +2381,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 06:31:21",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:119:1",
       "observation": "119",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 05:51:54",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_119"
       ],
@@ -2337,14 +2401,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 05:51:53",
+      "end_time": null,
       "hours": 0.98,
       "id": "10678:120:1",
       "observation": "120",
-      "plan_windows": [],
-      "start_time": "Sep 12, 2026 05:12:26",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_120"
       ],
@@ -2355,14 +2421,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 15:23:49",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:121:1",
       "observation": "121",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 14:44:22",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_121"
       ],
@@ -2373,14 +2441,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 14:44:21",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:122:1",
       "observation": "122",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 14:04:54",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_122"
       ],
@@ -2391,14 +2461,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 14:04:53",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:123:1",
       "observation": "123",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 13:25:26",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_123"
       ],
@@ -2409,14 +2481,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 13:25:25",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:124:1",
       "observation": "124",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 12:45:58",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_124"
       ],
@@ -2427,14 +2501,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 10, 2026 20:24:06",
+      "end_time": null,
       "hours": 0.96,
       "id": "10678:125:1",
       "observation": "125",
-      "plan_windows": [],
-      "start_time": "Sep 10, 2026 19:44:39",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 10, 2026 - Sep 10, 2026 (2026.253 - 2026.253)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_125"
       ],
@@ -2445,14 +2521,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 12:45:57",
+      "end_time": null,
       "hours": 0.96,
       "id": "10678:126:1",
       "observation": "126",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 12:06:30",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_126"
       ],
@@ -2463,14 +2541,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 12:06:29",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:127:1",
       "observation": "127",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 11:27:02",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_127"
       ],
@@ -2481,14 +2561,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 11:27:01",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:128:1",
       "observation": "128",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 10:47:34",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_128"
       ],
@@ -2499,14 +2581,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 10:47:33",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:129:1",
       "observation": "129",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 10:08:06",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_129"
       ],
@@ -2517,14 +2601,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 10:08:05",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:130:1",
       "observation": "130",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 09:28:38",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_130"
       ],
@@ -2535,14 +2621,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 09:28:37",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:131:1",
       "observation": "131",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 08:49:10",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_131"
       ],
@@ -2553,14 +2641,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 08:49:09",
+      "end_time": null,
       "hours": 0.91,
       "id": "10678:132:1",
       "observation": "132",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 08:09:42",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_132"
       ],
@@ -2571,14 +2661,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 08:09:41",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:133:1",
       "observation": "133",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 07:30:14",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_133"
       ],
@@ -2589,14 +2681,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 07:30:13",
+      "end_time": null,
       "hours": 0.96,
       "id": "10678:134:1",
       "observation": "134",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 06:50:46",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_134"
       ],
@@ -2607,14 +2701,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 06:50:45",
+      "end_time": null,
       "hours": 1.02,
       "id": "10678:135:1",
       "observation": "135",
-      "plan_windows": [],
-      "start_time": "Sep 11, 2026 06:11:18",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 11, 2026 - Sep 11, 2026 (2026.254 - 2026.254)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_135"
       ],
@@ -2625,14 +2721,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 10, 2026 23:33:49",
+      "end_time": null,
       "hours": 0.99,
       "id": "10678:136:1",
       "observation": "136",
-      "plan_windows": [],
-      "start_time": "Sep 10, 2026 22:54:22",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 10, 2026 - Sep 10, 2026 (2026.253 - 2026.253)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_136"
       ],
@@ -2643,14 +2741,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 10, 2026 22:54:21",
+      "end_time": null,
       "hours": 0.94,
       "id": "10678:137:1",
       "observation": "137",
-      "plan_windows": [],
-      "start_time": "Sep 10, 2026 22:14:54",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 10, 2026 - Sep 10, 2026 (2026.253 - 2026.253)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_137"
       ],
@@ -2661,14 +2761,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 10, 2026 22:14:53",
+      "end_time": null,
       "hours": 1.47,
       "id": "10678:138:1",
       "observation": "138",
-      "plan_windows": [],
-      "start_time": "Sep 10, 2026 21:35:26",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 10, 2026 - Sep 10, 2026 (2026.253 - 2026.253)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_138"
       ],
@@ -2679,14 +2781,16 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 10, 2026 19:44:38",
+      "end_time": null,
       "hours": 1.03,
       "id": "10678:139:1",
       "observation": "139",
-      "plan_windows": [],
-      "start_time": "Sep 10, 2026 19:05:11",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "plan_windows": [
+        "Sep 10, 2026 - Sep 10, 2026 (2026.253 - 2026.253)"
+      ],
+      "start_time": null,
+      "status": "Flight Ready",
+      "status_group": "neutral",
       "targets": [
         "GC_139"
       ],
