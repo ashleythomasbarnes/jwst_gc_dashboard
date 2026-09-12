@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T11:21:33Z",
+  "fetched_at": "2026-09-12T10:47:01Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,12 +7,12 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Fri Sep 11 07:21:33 EDT 2026",
+  "report_time": "Sat Sep 12 06:47:01 EDT 2026",
   "status_counts": {
-    "completed": 0,
+    "completed": 3,
     "failed": 0,
-    "neutral": 64,
-    "scheduled": 75
+    "neutral": 65,
+    "scheduled": 71
   },
   "visit_count": 139,
   "visits": [
@@ -26,7 +26,7 @@
       "id": "10678:1:1",
       "observation": "1",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -46,7 +46,7 @@
       "id": "10678:2:1",
       "observation": "2",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -66,7 +66,7 @@
       "id": "10678:3:1",
       "observation": "3",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -86,7 +86,7 @@
       "id": "10678:4:1",
       "observation": "4",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -106,7 +106,7 @@
       "id": "10678:5:1",
       "observation": "5",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 6, 2027 - Sep 3, 2027 (2027.218 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -126,7 +126,7 @@
       "id": "10678:6:1",
       "observation": "6",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -146,7 +146,7 @@
       "id": "10678:7:1",
       "observation": "7",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -166,7 +166,7 @@
       "id": "10678:8:1",
       "observation": "8",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -186,7 +186,7 @@
       "id": "10678:9:1",
       "observation": "9",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -206,7 +206,7 @@
       "id": "10678:10:1",
       "observation": "10",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -226,7 +226,7 @@
       "id": "10678:11:1",
       "observation": "11",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -246,7 +246,7 @@
       "id": "10678:12:1",
       "observation": "12",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -266,7 +266,7 @@
       "id": "10678:13:1",
       "observation": "13",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -286,7 +286,7 @@
       "id": "10678:14:1",
       "observation": "14",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -306,7 +306,7 @@
       "id": "10678:15:1",
       "observation": "15",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -326,7 +326,7 @@
       "id": "10678:16:1",
       "observation": "16",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -346,7 +346,7 @@
       "id": "10678:17:1",
       "observation": "17",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -366,7 +366,7 @@
       "id": "10678:18:1",
       "observation": "18",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -386,7 +386,7 @@
       "id": "10678:19:1",
       "observation": "19",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 24, 2027 (2027.217 - 2027.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -406,7 +406,7 @@
       "id": "10678:20:1",
       "observation": "20",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -426,7 +426,7 @@
       "id": "10678:21:1",
       "observation": "21",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -446,7 +446,7 @@
       "id": "10678:22:1",
       "observation": "22",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -466,7 +466,7 @@
       "id": "10678:23:1",
       "observation": "23",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -486,7 +486,7 @@
       "id": "10678:24:1",
       "observation": "24",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -506,7 +506,7 @@
       "id": "10678:25:1",
       "observation": "25",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -526,7 +526,7 @@
       "id": "10678:26:1",
       "observation": "26",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -546,7 +546,7 @@
       "id": "10678:27:1",
       "observation": "27",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -566,7 +566,7 @@
       "id": "10678:28:1",
       "observation": "28",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -586,7 +586,7 @@
       "id": "10678:29:1",
       "observation": "29",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -606,7 +606,7 @@
       "id": "10678:30:1",
       "observation": "30",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -626,7 +626,7 @@
       "id": "10678:31:1",
       "observation": "31",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -646,7 +646,7 @@
       "id": "10678:32:1",
       "observation": "32",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -666,7 +666,7 @@
       "id": "10678:33:1",
       "observation": "33",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -686,7 +686,7 @@
       "id": "10678:34:1",
       "observation": "34",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -706,7 +706,7 @@
       "id": "10678:35:1",
       "observation": "35",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -726,7 +726,7 @@
       "id": "10678:36:1",
       "observation": "36",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -746,7 +746,7 @@
       "id": "10678:37:1",
       "observation": "37",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -766,7 +766,7 @@
       "id": "10678:38:1",
       "observation": "38",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -786,7 +786,7 @@
       "id": "10678:39:1",
       "observation": "39",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -932,7 +932,7 @@
       "id": "10678:47:1",
       "observation": "47",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -952,7 +952,7 @@
       "id": "10678:48:1",
       "observation": "48",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -972,7 +972,7 @@
       "id": "10678:49:1",
       "observation": "49",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -992,7 +992,7 @@
       "id": "10678:50:1",
       "observation": "50",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1012,7 +1012,7 @@
       "id": "10678:51:1",
       "observation": "51",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1032,7 +1032,7 @@
       "id": "10678:52:1",
       "observation": "52",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1052,7 +1052,7 @@
       "id": "10678:53:1",
       "observation": "53",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1072,7 +1072,7 @@
       "id": "10678:54:1",
       "observation": "54",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1092,7 +1092,7 @@
       "id": "10678:55:1",
       "observation": "55",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1112,7 +1112,7 @@
       "id": "10678:56:1",
       "observation": "56",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1132,7 +1132,7 @@
       "id": "10678:57:1",
       "observation": "57",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1152,7 +1152,7 @@
       "id": "10678:58:1",
       "observation": "58",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1172,7 +1172,7 @@
       "id": "10678:59:1",
       "observation": "59",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 24, 2026 (2026.236 - 2026.267)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1228,7 +1228,7 @@
       "id": "10678:62:1",
       "observation": "62",
       "plan_windows": [
-        "Aug 24, 2026 - Sep 21, 2026 (2026.236 - 2026.264)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1698,7 +1698,7 @@
       "id": "10678:88:1",
       "observation": "88",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1718,7 +1718,7 @@
       "id": "10678:89:1",
       "observation": "89",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1738,7 +1738,7 @@
       "id": "10678:90:1",
       "observation": "90",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1758,7 +1758,7 @@
       "id": "10678:91:1",
       "observation": "91",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1778,7 +1778,7 @@
       "id": "10678:92:1",
       "observation": "92",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1798,7 +1798,7 @@
       "id": "10678:93:1",
       "observation": "93",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1818,7 +1818,7 @@
       "id": "10678:94:1",
       "observation": "94",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1838,7 +1838,7 @@
       "id": "10678:95:1",
       "observation": "95",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1858,7 +1858,7 @@
       "id": "10678:96:1",
       "observation": "96",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1878,7 +1878,7 @@
       "id": "10678:97:1",
       "observation": "97",
       "plan_windows": [
-        "Sep 13, 2026 - Sep 13, 2026 (2026.256 - 2026.256)"
+        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -1952,7 +1952,7 @@
       "id": "10678:101:1",
       "observation": "101",
       "plan_windows": [
-        "Sep 12, 2026 - Sep 12, 2026 (2026.255 - 2026.255)"
+        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -2579,14 +2579,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 11:48:49",
+      "end_time": null,
       "hours": 0.99,
       "id": "10678:136:1",
       "observation": "136",
       "plan_windows": [],
-      "start_time": "Sep 11, 2026 11:09:22",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": null,
+      "status": "Skipped",
+      "status_group": "neutral",
       "targets": [
         "GC_136"
       ],
@@ -2597,14 +2597,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 04:57:07",
+      "end_time": "Sep 11, 2026 12:19:33",
       "hours": 0.94,
       "id": "10678:137:1",
       "observation": "137",
       "plan_windows": [],
-      "start_time": "Sep 11, 2026 04:17:40",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 11, 2026 11:27:27",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_137"
       ],
@@ -2615,14 +2615,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 04:17:39",
+      "end_time": "Sep 11, 2026 11:27:23",
       "hours": 1.47,
       "id": "10678:138:1",
       "observation": "138",
       "plan_windows": [],
-      "start_time": "Sep 11, 2026 03:38:12",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 11, 2026 10:22:31",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_138"
       ],
@@ -2633,14 +2633,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 11, 2026 01:38:04",
+      "end_time": "Sep 11, 2026 07:53:48",
       "hours": 1.03,
       "id": "10678:139:1",
       "observation": "139",
       "plan_windows": [],
-      "start_time": "Sep 11, 2026 00:58:37",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 11, 2026 06:35:20",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_139"
       ],
