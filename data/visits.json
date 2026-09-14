@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T11:52:25Z",
+  "fetched_at": "2026-09-14T08:24:03Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,12 +7,12 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Sun Sep 13 07:52:25 EDT 2026",
+  "report_time": "Mon Sep 14 04:24:03 EDT 2026",
   "status_counts": {
-    "completed": 21,
+    "completed": 31,
     "failed": 0,
-    "neutral": 66,
-    "scheduled": 52
+    "neutral": 70,
+    "scheduled": 38
   },
   "visit_count": 139,
   "visits": [
@@ -1985,14 +1985,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 18:47:59",
+      "end_time": null,
       "hours": 0.96,
       "id": "10678:103:1",
       "observation": "103",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 18:08:32",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": null,
+      "status": "Skipped",
+      "status_group": "neutral",
       "targets": [
         "GC_103"
       ],
@@ -2003,14 +2003,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 18:08:31",
+      "end_time": null,
       "hours": 0.95,
       "id": "10678:104:1",
       "observation": "104",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 17:29:04",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": null,
+      "status": "Skipped",
+      "status_group": "neutral",
       "targets": [
         "GC_104"
       ],
@@ -2021,14 +2021,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 17:29:03",
+      "end_time": "Sep 14, 2026 03:50:43",
       "hours": 0.93,
       "id": "10678:105:1",
       "observation": "105",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 16:49:36",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 14, 2026 02:46:36",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_105"
       ],
@@ -2039,14 +2039,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 16:49:35",
+      "end_time": "Sep 14, 2026 02:46:32",
       "hours": 0.95,
       "id": "10678:106:1",
       "observation": "106",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 16:10:08",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 14, 2026 02:04:28",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_106"
       ],
@@ -2057,14 +2057,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 16:10:07",
+      "end_time": "Sep 14, 2026 02:04:24",
       "hours": 0.97,
       "id": "10678:107:1",
       "observation": "107",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 15:30:40",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 14, 2026 01:03:51",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_107"
       ],
@@ -2075,14 +2075,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 15:30:39",
+      "end_time": "Sep 14, 2026 01:03:47",
       "hours": 0.98,
       "id": "10678:108:1",
       "observation": "108",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 14:51:12",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 14, 2026 00:21:22",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_108"
       ],
@@ -2093,14 +2093,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 14:51:11",
+      "end_time": "Sep 14, 2026 00:21:18",
       "hours": 0.97,
       "id": "10678:109:1",
       "observation": "109",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 14:11:44",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 23:41:02",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_109"
       ],
@@ -2111,14 +2111,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 14:11:43",
+      "end_time": null,
       "hours": 0.93,
       "id": "10678:110:1",
       "observation": "110",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 13:32:16",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": null,
+      "status": "Skipped",
+      "status_group": "neutral",
       "targets": [
         "GC_110"
       ],
@@ -2129,14 +2129,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 13:32:15",
+      "end_time": "Sep 13, 2026 23:20:23",
       "hours": 0.97,
       "id": "10678:111:1",
       "observation": "111",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 12:52:48",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 22:37:11",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_111"
       ],
@@ -2147,14 +2147,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 12:52:47",
+      "end_time": "Sep 13, 2026 22:37:07",
       "hours": 0.91,
       "id": "10678:112:1",
       "observation": "112",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 12:13:20",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 21:54:09",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_112"
       ],
@@ -2165,14 +2165,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 12:13:19",
+      "end_time": "Sep 13, 2026 21:54:05",
       "hours": 0.93,
       "id": "10678:113:1",
       "observation": "113",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 11:33:52",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 21:14:38",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_113"
       ],
@@ -2183,14 +2183,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 13, 2026 11:33:51",
+      "end_time": "Sep 13, 2026 21:14:34",
       "hours": 0.95,
       "id": "10678:114:1",
       "observation": "114",
       "plan_windows": [],
-      "start_time": "Sep 13, 2026 10:54:24",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 19:58:24",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_114"
       ],
@@ -2201,14 +2201,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 21:08:50",
+      "end_time": null,
       "hours": 0.91,
       "id": "10678:115:1",
       "observation": "115",
       "plan_windows": [],
-      "start_time": "Sep 12, 2026 20:29:23",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": null,
+      "status": "Skipped",
+      "status_group": "neutral",
       "targets": [
         "GC_115"
       ],
@@ -2219,14 +2219,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 12, 2026 20:29:22",
+      "end_time": "Sep 13, 2026 04:48:34",
       "hours": 0.92,
       "id": "10678:116:1",
       "observation": "116",
       "plan_windows": [],
-      "start_time": "Sep 12, 2026 19:49:55",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 13, 2026 04:05:47",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_116"
       ],
@@ -2243,7 +2243,7 @@
       "observation": "117",
       "plan_windows": [],
       "start_time": "Sep 13, 2026 03:22:56",
-      "status": "Executed",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_117"
@@ -2261,7 +2261,7 @@
       "observation": "118",
       "plan_windows": [],
       "start_time": "Sep 13, 2026 02:30:37",
-      "status": "Executed",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_118"
@@ -2297,7 +2297,7 @@
       "observation": "120",
       "plan_windows": [],
       "start_time": "Sep 13, 2026 01:28:16",
-      "status": "Executed",
+      "status": "Collecting",
       "status_group": "completed",
       "targets": [
         "GC_120"
@@ -2369,7 +2369,7 @@
       "observation": "124",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 18:37:42",
-      "status": "Executed",
+      "status": "Collecting",
       "status_group": "completed",
       "targets": [
         "GC_124"
@@ -2387,7 +2387,7 @@
       "observation": "125",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 23:42:45",
-      "status": "Executed",
+      "status": "Collecting",
       "status_group": "completed",
       "targets": [
         "GC_125"
@@ -2405,7 +2405,7 @@
       "observation": "126",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 17:54:38",
-      "status": "Collecting",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_126"
