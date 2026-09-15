@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T20:17:04Z",
+  "fetched_at": "2026-09-15T07:53:23Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,7 +7,7 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Mon Sep 14 16:17:04 EDT 2026",
+  "report_time": "Tue Sep 15 03:53:23 EDT 2026",
   "status_counts": {
     "completed": 34,
     "failed": 0,
@@ -2297,7 +2297,7 @@
       "observation": "120",
       "plan_windows": [],
       "start_time": "Sep 13, 2026 01:28:16",
-      "status": "Collecting",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_120"
@@ -2315,7 +2315,7 @@
       "observation": "121",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 20:57:57",
-      "status": "Executed",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_121"
@@ -2333,7 +2333,7 @@
       "observation": "122",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 20:06:59",
-      "status": "Executed",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_122"
@@ -2351,7 +2351,7 @@
       "observation": "123",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 19:23:36",
-      "status": "Executed",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_123"
@@ -2369,7 +2369,7 @@
       "observation": "124",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 18:37:42",
-      "status": "Collecting",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_124"
@@ -2387,7 +2387,7 @@
       "observation": "125",
       "plan_windows": [],
       "start_time": "Sep 12, 2026 23:42:45",
-      "status": "Collecting",
+      "status": "Archived",
       "status_group": "completed",
       "targets": [
         "GC_125"
