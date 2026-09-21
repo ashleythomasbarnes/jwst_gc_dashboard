@@ -75,7 +75,7 @@ def parse_program(root: ET.Element) -> tuple[list[dict[str, object]], tuple[floa
             raise ValueError("An APT target is missing its name or coordinates")
         targets[name] = SkyCoord(coordinates.get("Value"), unit=(u.hourangle, u.deg), frame="icrs")
 
-    fields: list[dict[str, object]] = []
+    fields_by_target: dict[str, dict[str, object]] = {}
     orient_ranges: set[tuple[float, float]] = set()
     for observation in root.findall("apt:DataRequests//apt:Observation", NS):
         number = observation.findtext("apt:Number", namespaces=NS)
@@ -89,14 +89,17 @@ def parse_program(root: ET.Element) -> tuple[list[dict[str, object]], tuple[floa
             raise ValueError(f"Observation {number} references unknown target {target_name!r}")
 
         orient_ranges.add((degrees(orient.get("OrientMin", "")), degrees(orient.get("OrientMax", ""))))
-        fields.append({"observation": number, "target": target_name, "coordinate": targets[target_name]})
+        fields_by_target.setdefault(
+            target_name,
+            {"observation": number, "target": target_name, "coordinate": targets[target_name]},
+        )
 
-    if not fields:
+    if not fields_by_target:
         raise ValueError("The APT file contains no observations")
     if len(orient_ranges) != 1:
         raise ValueError(f"Expected one shared orientation range, found {sorted(orient_ranges)}")
 
-    return fields, orient_ranges.pop()
+    return list(fields_by_target.values()), orient_ranges.pop()
 
 
 def siaf_for_prd(instrument: str, prd_version: str) -> pysiaf.Siaf:

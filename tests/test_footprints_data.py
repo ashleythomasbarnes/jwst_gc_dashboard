@@ -15,16 +15,22 @@ class FootprintDataTests(unittest.TestCase):
         cls.footprints = json.loads(FOOTPRINTS_FILE.read_text())
         cls.visits = json.loads(VISITS_FILE.read_text())
 
-    def test_geometry_matches_dashboard_observations(self):
+    def test_geometry_matches_dashboard_targets(self):
         self.assertEqual(self.footprints["program_id"], "10678")
         fields = self.footprints["fields"]
-        visits_by_observation = {visit["observation"]: visit for visit in self.visits["visits"]}
-        fields_by_observation = {field["observation"]: field for field in fields}
+        visits_by_target = {}
+        for visit in self.visits["visits"]:
+            for target in visit["targets"]:
+                visits_by_target.setdefault(target, []).append(visit)
+        fields_by_target = {field["target"]: field for field in fields}
 
-        self.assertEqual(len(fields_by_observation), len(fields))
-        self.assertEqual(set(fields_by_observation), set(visits_by_observation))
-        for observation, field in fields_by_observation.items():
-            self.assertIn(field["target"], visits_by_observation[observation]["targets"])
+        self.assertEqual(len(fields_by_target), len(fields))
+        self.assertEqual(set(fields_by_target), set(visits_by_target))
+        for target, field in fields_by_target.items():
+            self.assertTrue(
+                any(visit["observation"] == field["observation"] for visit in visits_by_target[target]),
+                f"Footprint source observation {field['observation']} is not a current visit for {target}",
+            )
 
     def test_each_field_has_two_nircam_modules_and_one_miri_aperture(self):
         for field in self.footprints["fields"]:

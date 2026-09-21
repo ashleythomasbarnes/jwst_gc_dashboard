@@ -213,14 +213,21 @@ function renderFootprints() {
   footprintRenderFrame = null;
   if (!state.data || !state.footprints) return;
 
-  const visibleObservations = new Set(filteredVisits().map((visit) => visit.observation));
-  const visitsByObservation = new Map(state.data.visits.map((visit) => [visit.observation, visit]));
   const statusOrder = { neutral: 0, scheduled: 1, completed: 2, failed: 3 };
+  const visitsByTarget = new Map();
+  filteredVisits().forEach((visit) => {
+    visit.targets.forEach((target) => {
+      const current = visitsByTarget.get(target);
+      if (!current || statusOrder[visit.status_group] > statusOrder[current.status_group]) {
+        visitsByTarget.set(target, visit);
+      }
+    });
+  });
   const fields = state.footprints.fields
-    .filter((field) => visibleObservations.has(field.observation))
+    .filter((field) => visitsByTarget.has(field.target))
     .sort((a, b) => {
-      const aGroup = visitsByObservation.get(a.observation)?.status_group || "neutral";
-      const bGroup = visitsByObservation.get(b.observation)?.status_group || "neutral";
+      const aGroup = visitsByTarget.get(a.target)?.status_group || "neutral";
+      const bGroup = visitsByTarget.get(b.target)?.status_group || "neutral";
       return statusOrder[aGroup] - statusOrder[bGroup];
     });
 
@@ -237,7 +244,7 @@ function renderFootprints() {
     context.clearRect(0, 0, width, height);
 
     fields.forEach((field) => {
-      const visit = visitsByObservation.get(field.observation);
+      const visit = visitsByTarget.get(field.target);
       const color = statusColor(visit?.status_group || "neutral");
       field[map.instrument].forEach((polygon) => drawPolygon(context, polygon, color, width, height));
     });
@@ -247,7 +254,7 @@ function renderFootprints() {
     map.count.textContent = `${fields.length} ${noun}`;
     map.canvas.setAttribute(
       "aria-label",
-      `${map.label} nominal survey coverage showing ${fields.length} of ${state.data.visits.length} fields over a Spitzer 8 micron image`,
+      `${map.label} nominal survey coverage showing ${fields.length} of ${state.footprints.fields.length} fields from ${state.data.visits.length} visits over a Spitzer 8 micron image`,
     );
     map.loading.hidden = true;
   });

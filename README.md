@@ -8,7 +8,7 @@ The site is designed for GitHub Pages at:
 
 ## What it shows
 
-Each STScI visit is shown as a field card with its target, exact visit status, observation and visit numbers, observing modes, charged time, and either its Plan Window or actual start/end time. Two sky maps show the nominal NIRCam and coordinated-parallel MIRI footprints over Spitzer/IRAC 8 μm emission. The map overlays follow the same status and search filters as the field cards.
+Each STScI visit is shown as a field card with its target, exact visit status, observation and visit numbers, observing modes, charged time, and either its Plan Window or actual start/end time. Two sky maps show the nominal NIRCam and coordinated-parallel MIRI footprints over Spitzer/IRAC 8 μm emission. The map overlays follow the same status and search filters as the field cards. Replacement observations for the same target share one sky footprint.
 
 The colours group the original STScI status without replacing its wording:
 

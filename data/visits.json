@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T11:34:21Z",
+  "fetched_at": "2026-09-21T08:36:52Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,14 +7,14 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Wed Sep 16 07:34:21 EDT 2026",
+  "report_time": "Mon Sep 21 04:36:52 EDT 2026",
   "status_counts": {
-    "completed": 38,
+    "completed": 66,
     "failed": 0,
-    "neutral": 71,
-    "scheduled": 30
+    "neutral": 73,
+    "scheduled": 2
   },
-  "visit_count": 139,
+  "visit_count": 141,
   "visits": [
     {
       "configurations": [
@@ -22,14 +22,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.97,
       "id": "10678:1:1",
       "observation": "1",
       "plan_windows": [
-        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_1"
@@ -42,14 +42,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.94,
       "id": "10678:2:1",
       "observation": "2",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_2"
@@ -62,14 +62,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.92,
       "id": "10678:3:1",
       "observation": "3",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_3"
@@ -82,14 +82,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.91,
       "id": "10678:4:1",
       "observation": "4",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_4"
@@ -102,14 +102,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.93,
       "id": "10678:5:1",
       "observation": "5",
       "plan_windows": [
         "Aug 6, 2027 - Sep 3, 2027 (2027.218 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_5"
@@ -162,14 +162,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.99,
       "id": "10678:8:1",
       "observation": "8",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_8"
@@ -182,14 +182,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.47,
+      "hours": 0.97,
       "id": "10678:9:1",
       "observation": "9",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_9"
@@ -202,14 +202,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.92,
       "id": "10678:10:1",
       "observation": "10",
       "plan_windows": [
         "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_10"
@@ -222,14 +222,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.98,
       "id": "10678:11:1",
       "observation": "11",
       "plan_windows": [
-        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
+        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_11"
@@ -242,14 +242,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.92,
       "id": "10678:12:1",
       "observation": "12",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_12"
@@ -262,14 +262,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.93,
       "id": "10678:13:1",
       "observation": "13",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_13"
@@ -282,14 +282,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.95,
       "id": "10678:14:1",
       "observation": "14",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_14"
@@ -322,14 +322,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 1.0,
       "id": "10678:16:1",
       "observation": "16",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_16"
@@ -342,14 +342,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.93,
       "id": "10678:17:1",
       "observation": "17",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_17"
@@ -362,14 +362,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.95,
       "id": "10678:18:1",
       "observation": "18",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_18"
@@ -382,14 +382,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.92,
       "id": "10678:19:1",
       "observation": "19",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_19"
@@ -402,14 +402,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.97,
       "id": "10678:20:1",
       "observation": "20",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_20"
@@ -429,7 +429,7 @@
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_21"
@@ -442,14 +442,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.94,
       "id": "10678:22:1",
       "observation": "22",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_22"
@@ -469,7 +469,7 @@
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_23"
@@ -489,7 +489,7 @@
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_24"
@@ -502,14 +502,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.93,
       "id": "10678:25:1",
       "observation": "25",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_25"
@@ -522,14 +522,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.95,
       "id": "10678:26:1",
       "observation": "26",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_26"
@@ -549,7 +549,7 @@
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_27"
@@ -569,7 +569,7 @@
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_28"
@@ -582,14 +582,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.97,
       "id": "10678:29:1",
       "observation": "29",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_29"
@@ -602,14 +602,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.93,
       "id": "10678:30:1",
       "observation": "30",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_30"
@@ -622,14 +622,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.99,
       "id": "10678:31:1",
       "observation": "31",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_31"
@@ -642,14 +642,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.91,
       "id": "10678:32:1",
       "observation": "32",
       "plan_windows": [
         "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_32"
@@ -689,7 +689,7 @@
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_34"
@@ -702,14 +702,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.98,
       "id": "10678:35:1",
       "observation": "35",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_35"
@@ -722,14 +722,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.47,
+      "hours": 0.95,
       "id": "10678:36:1",
       "observation": "36",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_36"
@@ -742,14 +742,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 1.03,
       "id": "10678:37:1",
       "observation": "37",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_37"
@@ -769,7 +769,7 @@
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_38"
@@ -782,14 +782,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.94,
       "id": "10678:39:1",
       "observation": "39",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_39"
@@ -891,14 +891,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 12:54:22",
+      "end_time": "Sep 18, 2026 13:30:03",
       "hours": 0.93,
       "id": "10678:45:1",
       "observation": "45",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 12:14:55",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 12:31:49",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_45"
       ],
@@ -935,7 +935,7 @@
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_47"
@@ -968,14 +968,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.96,
       "id": "10678:49:1",
       "observation": "49",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_49"
@@ -988,14 +988,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.98,
       "id": "10678:50:1",
       "observation": "50",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_50"
@@ -1008,14 +1008,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.94,
       "id": "10678:51:1",
       "observation": "51",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_51"
@@ -1028,14 +1028,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.99,
       "id": "10678:52:1",
       "observation": "52",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_52"
@@ -1048,14 +1048,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 1.01,
       "id": "10678:53:1",
       "observation": "53",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_53"
@@ -1068,14 +1068,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.91,
       "id": "10678:54:1",
       "observation": "54",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_54"
@@ -1088,14 +1088,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.99,
       "id": "10678:55:1",
       "observation": "55",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_55"
@@ -1108,14 +1108,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.92,
       "id": "10678:56:1",
       "observation": "56",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_56"
@@ -1128,14 +1128,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.97,
       "id": "10678:57:1",
       "observation": "57",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_57"
@@ -1148,14 +1148,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.91,
       "id": "10678:58:1",
       "observation": "58",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_58"
@@ -1168,14 +1168,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.93,
       "id": "10678:59:1",
       "observation": "59",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_59"
@@ -1187,14 +1187,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 14:13:18",
+      "end_time": "Sep 18, 2026 15:01:42",
       "hours": 0.91,
       "id": "10678:60:1",
       "observation": "60",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 13:33:51",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 14:16:22",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_60"
       ],
@@ -1205,14 +1205,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 14:52:46",
+      "end_time": "Sep 18, 2026 15:44:16",
       "hours": 0.92,
       "id": "10678:61:1",
       "observation": "61",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 14:13:19",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 15:01:46",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_61"
       ],
@@ -1224,14 +1224,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.98,
       "id": "10678:62:1",
       "observation": "62",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_62"
@@ -1243,14 +1243,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 15:32:14",
+      "end_time": "Sep 18, 2026 16:25:34",
       "hours": 0.94,
       "id": "10678:63:1",
       "observation": "63",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 14:52:47",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 15:44:20",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_63"
       ],
@@ -1261,14 +1261,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 16:11:42",
+      "end_time": "Sep 18, 2026 17:08:57",
       "hours": 0.91,
       "id": "10678:64:1",
       "observation": "64",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 15:32:15",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 16:25:38",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_64"
       ],
@@ -1279,14 +1279,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 16:51:10",
+      "end_time": "Sep 18, 2026 17:51:43",
       "hours": 0.91,
       "id": "10678:65:1",
       "observation": "65",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 16:11:43",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 17:09:01",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_65"
       ],
@@ -1297,14 +1297,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 17:30:38",
+      "end_time": "Sep 18, 2026 18:34:15",
       "hours": 0.91,
       "id": "10678:66:1",
       "observation": "66",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 16:51:11",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 17:51:47",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_66"
       ],
@@ -1315,14 +1315,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 04:29:11",
+      "end_time": "Sep 18, 2026 06:33:12",
       "hours": 0.95,
       "id": "10678:67:1",
       "observation": "67",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 03:49:44",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 05:28:53",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_67"
       ],
@@ -1333,14 +1333,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 18:10:06",
+      "end_time": "Sep 18, 2026 19:20:34",
       "hours": 0.91,
       "id": "10678:68:1",
       "observation": "68",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 17:30:39",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 18:34:19",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_68"
       ],
@@ -1351,14 +1351,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 18, 2026 18:49:34",
+      "end_time": "Sep 18, 2026 20:03:59",
       "hours": 0.92,
       "id": "10678:69:1",
       "observation": "69",
       "plan_windows": [],
-      "start_time": "Sep 18, 2026 18:10:07",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 18, 2026 19:20:38",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_69"
       ],
@@ -1369,14 +1369,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 09:17:38",
+      "end_time": "Sep 19, 2026 12:03:24",
       "hours": 0.91,
       "id": "10678:70:1",
       "observation": "70",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 08:38:11",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 10:53:53",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_70"
       ],
@@ -1387,14 +1387,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 09:57:06",
+      "end_time": "Sep 19, 2026 12:47:56",
       "hours": 0.91,
       "id": "10678:71:1",
       "observation": "71",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 09:17:39",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 12:03:28",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_71"
       ],
@@ -1405,14 +1405,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 10:36:34",
+      "end_time": "Sep 19, 2026 13:28:59",
       "hours": 0.91,
       "id": "10678:72:1",
       "observation": "72",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 09:57:07",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 12:48:00",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_72"
       ],
@@ -1423,14 +1423,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 11:16:02",
+      "end_time": "Sep 19, 2026 14:11:27",
       "hours": 0.95,
       "id": "10678:73:1",
       "observation": "73",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 10:36:35",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 13:29:03",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_73"
       ],
@@ -1441,14 +1441,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 11:55:30",
+      "end_time": "Sep 19, 2026 15:00:49",
       "hours": 1.47,
       "id": "10678:74:1",
       "observation": "74",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 11:16:03",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 14:11:31",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_74"
       ],
@@ -1459,14 +1459,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 12:34:58",
+      "end_time": "Sep 19, 2026 15:43:23",
       "hours": 0.92,
       "id": "10678:75:1",
       "observation": "75",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 11:55:31",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 15:00:53",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_75"
       ],
@@ -1477,14 +1477,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 19, 2026 13:14:26",
+      "end_time": "Sep 19, 2026 16:22:29",
       "hours": 0.91,
       "id": "10678:76:1",
       "observation": "76",
       "plan_windows": [],
-      "start_time": "Sep 19, 2026 12:34:59",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 19, 2026 15:43:27",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_76"
       ],
@@ -1495,14 +1495,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 14:40:12",
+      "end_time": "Sep 20, 2026 16:51:46",
       "hours": 0.93,
       "id": "10678:77:1",
       "observation": "77",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 14:00:45",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 15:15:29",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_77"
       ],
@@ -1513,14 +1513,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 15:19:40",
+      "end_time": "Sep 20, 2026 17:49:21",
       "hours": 0.94,
       "id": "10678:78:1",
       "observation": "78",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 14:40:13",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 16:51:50",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_78"
       ],
@@ -1531,14 +1531,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 15:59:08",
+      "end_time": "Sep 20, 2026 18:29:26",
       "hours": 0.91,
       "id": "10678:79:1",
       "observation": "79",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 15:19:41",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 17:49:25",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_79"
       ],
@@ -1549,14 +1549,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 16:38:36",
+      "end_time": "Sep 20, 2026 19:28:19",
       "hours": 0.92,
       "id": "10678:80:1",
       "observation": "80",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 15:59:09",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 18:29:30",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_80"
       ],
@@ -1567,14 +1567,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 17:18:04",
+      "end_time": "Sep 20, 2026 20:15:27",
       "hours": 0.92,
       "id": "10678:81:1",
       "observation": "81",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 16:38:37",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 19:28:23",
+      "status": "Archived",
+      "status_group": "completed",
       "targets": [
         "GC_81"
       ],
@@ -1585,14 +1585,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 17:57:32",
+      "end_time": "Sep 20, 2026 21:07:37",
       "hours": 0.91,
       "id": "10678:82:1",
       "observation": "82",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 17:18:05",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 20:15:31",
+      "status": "Collecting",
+      "status_group": "completed",
       "targets": [
         "GC_82"
       ],
@@ -1603,14 +1603,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 18:37:00",
+      "end_time": "Sep 20, 2026 21:47:38",
       "hours": 0.91,
       "id": "10678:83:1",
       "observation": "83",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 17:57:33",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 21:07:41",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_83"
       ],
@@ -1621,14 +1621,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 19:16:28",
+      "end_time": "Sep 20, 2026 22:31:25",
       "hours": 0.93,
       "id": "10678:84:1",
       "observation": "84",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 18:37:01",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 21:47:42",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_84"
       ],
@@ -1639,14 +1639,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 19:55:56",
+      "end_time": "Sep 20, 2026 23:13:33",
       "hours": 0.91,
       "id": "10678:85:1",
       "observation": "85",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 19:16:29",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 22:31:29",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_85"
       ],
@@ -1657,14 +1657,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 20:35:24",
+      "end_time": "Sep 20, 2026 23:56:15",
       "hours": 0.92,
       "id": "10678:86:1",
       "observation": "86",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 19:55:57",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 23:13:38",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_86"
       ],
@@ -1675,14 +1675,14 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
-      "end_time": "Sep 20, 2026 21:14:52",
+      "end_time": "Sep 21, 2026 00:36:09",
       "hours": 0.95,
       "id": "10678:87:1",
       "observation": "87",
       "plan_windows": [],
-      "start_time": "Sep 20, 2026 20:35:25",
-      "status": "Scheduled",
-      "status_group": "scheduled",
+      "start_time": "Sep 20, 2026 23:56:19",
+      "status": "Executed",
+      "status_group": "completed",
       "targets": [
         "GC_87"
       ],
@@ -1694,14 +1694,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.94,
       "id": "10678:88:1",
       "observation": "88",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_88"
@@ -1721,7 +1721,7 @@
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_89"
@@ -1734,14 +1734,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.99,
       "id": "10678:90:1",
       "observation": "90",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_90"
@@ -1754,14 +1754,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 1.06,
       "id": "10678:91:1",
       "observation": "91",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_91"
@@ -1774,14 +1774,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.91,
       "id": "10678:92:1",
       "observation": "92",
       "plan_windows": [
         "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_92"
@@ -1794,14 +1794,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.93,
       "id": "10678:93:1",
       "observation": "93",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_93"
@@ -1814,14 +1814,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.95,
       "id": "10678:94:1",
       "observation": "94",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_94"
@@ -1834,14 +1834,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.96,
       "id": "10678:95:1",
       "observation": "95",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 10, 2027 - Sep 7, 2027 (2027.222 - 2027.250)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_95"
@@ -1854,14 +1854,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.96,
       "id": "10678:96:1",
       "observation": "96",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_96"
@@ -1874,14 +1874,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 1.0,
       "id": "10678:97:1",
       "observation": "97",
       "plan_windows": [
-        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
+        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_97"
@@ -1948,14 +1948,14 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.47,
+      "hours": 0.97,
       "id": "10678:101:1",
       "observation": "101",
       "plan_windows": [
-        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
+        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
       ],
       "start_time": null,
-      "status": "Flight Ready",
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_101"
@@ -2291,6 +2291,26 @@
         "NIRCam Imaging",
         "MIRI Imaging"
       ],
+      "end_time": null,
+      "hours": 0.97,
+      "id": "10678:219:1",
+      "observation": "219",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
+      ],
+      "start_time": null,
+      "status": "Implementation",
+      "status_group": "neutral",
+      "targets": [
+        "GC_119"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
       "end_time": "Sep 13, 2026 02:14:41",
       "hours": 0.98,
       "id": "10678:120:1",
@@ -2586,6 +2606,26 @@
       "plan_windows": [],
       "start_time": null,
       "status": "Skipped",
+      "status_group": "neutral",
+      "targets": [
+        "GC_136"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.47,
+      "id": "10678:236:1",
+      "observation": "236",
+      "plan_windows": [
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
+      ],
+      "start_time": null,
+      "status": "Implementation",
       "status_group": "neutral",
       "targets": [
         "GC_136"
