@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T11:51:25Z",
+  "fetched_at": "2026-09-26T11:25:08Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,7 +7,7 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Fri Sep 25 07:51:24 EDT 2026",
+  "report_time": "Sat Sep 26 07:25:08 EDT 2026",
   "status_counts": {
     "completed": 66,
     "failed": 0,
@@ -106,7 +106,7 @@
       "id": "10678:5:1",
       "observation": "5",
       "plan_windows": [
-        "Aug 6, 2027 - Sep 3, 2027 (2027.218 - 2027.246)"
+        "Aug 5, 2027 - Sep 2, 2027 (2027.217 - 2027.245)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -226,7 +226,7 @@
       "id": "10678:11:1",
       "observation": "11",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -246,7 +246,7 @@
       "id": "10678:12:1",
       "observation": "12",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -266,7 +266,7 @@
       "id": "10678:13:1",
       "observation": "13",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -286,7 +286,7 @@
       "id": "10678:14:1",
       "observation": "14",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -306,7 +306,7 @@
       "id": "10678:15:1",
       "observation": "15",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -326,7 +326,7 @@
       "id": "10678:16:1",
       "observation": "16",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -346,7 +346,7 @@
       "id": "10678:17:1",
       "observation": "17",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -366,7 +366,7 @@
       "id": "10678:18:1",
       "observation": "18",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -386,7 +386,7 @@
       "id": "10678:19:1",
       "observation": "19",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -406,7 +406,7 @@
       "id": "10678:20:1",
       "observation": "20",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -426,7 +426,7 @@
       "id": "10678:21:1",
       "observation": "21",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -446,7 +446,7 @@
       "id": "10678:22:1",
       "observation": "22",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -466,7 +466,7 @@
       "id": "10678:23:1",
       "observation": "23",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -486,7 +486,7 @@
       "id": "10678:24:1",
       "observation": "24",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -506,7 +506,7 @@
       "id": "10678:25:1",
       "observation": "25",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -526,7 +526,7 @@
       "id": "10678:26:1",
       "observation": "26",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -546,7 +546,7 @@
       "id": "10678:27:1",
       "observation": "27",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -566,7 +566,7 @@
       "id": "10678:28:1",
       "observation": "28",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -586,7 +586,7 @@
       "id": "10678:29:1",
       "observation": "29",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -606,7 +606,7 @@
       "id": "10678:30:1",
       "observation": "30",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -626,7 +626,7 @@
       "id": "10678:31:1",
       "observation": "31",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -646,7 +646,7 @@
       "id": "10678:32:1",
       "observation": "32",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -666,7 +666,7 @@
       "id": "10678:33:1",
       "observation": "33",
       "plan_windows": [
-        "Aug 7, 2027 - Sep 4, 2027 (2027.219 - 2027.247)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -686,7 +686,7 @@
       "id": "10678:34:1",
       "observation": "34",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -706,7 +706,7 @@
       "id": "10678:35:1",
       "observation": "35",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -726,7 +726,7 @@
       "id": "10678:36:1",
       "observation": "36",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -746,7 +746,7 @@
       "id": "10678:37:1",
       "observation": "37",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -766,7 +766,7 @@
       "id": "10678:38:1",
       "observation": "38",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -786,7 +786,7 @@
       "id": "10678:39:1",
       "observation": "39",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -932,7 +932,7 @@
       "id": "10678:47:1",
       "observation": "47",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -952,7 +952,7 @@
       "id": "10678:48:1",
       "observation": "48",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Flight Ready",
@@ -972,7 +972,7 @@
       "id": "10678:49:1",
       "observation": "49",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -992,7 +992,7 @@
       "id": "10678:50:1",
       "observation": "50",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1012,7 +1012,7 @@
       "id": "10678:51:1",
       "observation": "51",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1032,7 +1032,7 @@
       "id": "10678:52:1",
       "observation": "52",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1052,7 +1052,7 @@
       "id": "10678:53:1",
       "observation": "53",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1072,7 +1072,7 @@
       "id": "10678:54:1",
       "observation": "54",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1092,7 +1092,7 @@
       "id": "10678:55:1",
       "observation": "55",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1112,7 +1112,7 @@
       "id": "10678:56:1",
       "observation": "56",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1132,7 +1132,7 @@
       "id": "10678:57:1",
       "observation": "57",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1152,7 +1152,7 @@
       "id": "10678:58:1",
       "observation": "58",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1172,7 +1172,7 @@
       "id": "10678:59:1",
       "observation": "59",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1228,7 +1228,7 @@
       "id": "10678:62:1",
       "observation": "62",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1698,7 +1698,7 @@
       "id": "10678:88:1",
       "observation": "88",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1718,7 +1718,7 @@
       "id": "10678:89:1",
       "observation": "89",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1738,7 +1738,7 @@
       "id": "10678:90:1",
       "observation": "90",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1758,7 +1758,7 @@
       "id": "10678:91:1",
       "observation": "91",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1778,7 +1778,7 @@
       "id": "10678:92:1",
       "observation": "92",
       "plan_windows": [
-        "Aug 8, 2027 - Sep 5, 2027 (2027.220 - 2027.248)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1798,7 +1798,7 @@
       "id": "10678:93:1",
       "observation": "93",
       "plan_windows": [
-        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1818,7 +1818,7 @@
       "id": "10678:94:1",
       "observation": "94",
       "plan_windows": [
-        "Aug 9, 2027 - Sep 6, 2027 (2027.221 - 2027.249)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1838,7 +1838,7 @@
       "id": "10678:95:1",
       "observation": "95",
       "plan_windows": [
-        "Aug 10, 2027 - Sep 7, 2027 (2027.222 - 2027.250)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1858,7 +1858,7 @@
       "id": "10678:96:1",
       "observation": "96",
       "plan_windows": [
-        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1878,7 +1878,7 @@
       "id": "10678:97:1",
       "observation": "97",
       "plan_windows": [
-        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
@@ -1952,7 +1952,7 @@
       "id": "10678:101:1",
       "observation": "101",
       "plan_windows": [
-        "Aug 11, 2027 - Sep 8, 2027 (2027.223 - 2027.251)"
+        "Aug 5, 2027 - Sep 3, 2027 (2027.217 - 2027.246)"
       ],
       "start_time": null,
       "status": "Implementation",
