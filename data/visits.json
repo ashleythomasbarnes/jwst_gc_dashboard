@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T14:22:24Z",
+  "fetched_at": "2026-11-12T15:14:28Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,7 +7,7 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Wed Nov 11 09:22:24 EST 2026",
+  "report_time": "Thu Nov 12 10:14:27 EST 2026",
   "status_counts": {
     "completed": 68,
     "failed": 0,
