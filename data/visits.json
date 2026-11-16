@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:55:57Z",
+  "fetched_at": "2026-11-16T15:46:34Z",
   "program": {
     "help_url": "https://www.stsci.edu/jwst-program-info/visit-help/?program=10678#status",
     "id": "10678",
@@ -7,14 +7,14 @@
     "title": "The JWST/NIRCam Legacy Survey of the Galactic Center",
     "xml_url": "https://www.stsci.edu/jwst-program-info/visits/?program=10678&download="
   },
-  "report_time": "Sun Nov 15 08:55:57 EST 2026",
+  "report_time": "Mon Nov 16 10:46:34 EST 2026",
   "status_counts": {
-    "completed": 68,
-    "failed": 0,
-    "neutral": 78,
+    "completed": 67,
+    "failed": 1,
+    "neutral": 79,
     "scheduled": 0
   },
-  "visit_count": 146,
+  "visit_count": 147,
   "visits": [
     {
       "configurations": [
@@ -22,7 +22,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.93,
       "id": "10678:1:1",
       "observation": "1",
       "plan_windows": [
@@ -42,7 +42,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.93,
       "id": "10678:2:1",
       "observation": "2",
       "plan_windows": [
@@ -62,7 +62,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.99,
+      "hours": 1.02,
       "id": "10678:3:1",
       "observation": "3",
       "plan_windows": [
@@ -102,7 +102,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.06,
+      "hours": 1.0,
       "id": "10678:5:1",
       "observation": "5",
       "plan_windows": [
@@ -122,7 +122,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.94,
       "id": "10678:6:1",
       "observation": "6",
       "plan_windows": [
@@ -162,7 +162,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.93,
       "id": "10678:8:1",
       "observation": "8",
       "plan_windows": [
@@ -222,7 +222,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.01,
+      "hours": 0.91,
       "id": "10678:11:1",
       "observation": "11",
       "plan_windows": [
@@ -242,7 +242,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.91,
       "id": "10678:12:1",
       "observation": "12",
       "plan_windows": [
@@ -262,7 +262,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.93,
       "id": "10678:13:1",
       "observation": "13",
       "plan_windows": [
@@ -282,7 +282,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.0,
+      "hours": 0.94,
       "id": "10678:14:1",
       "observation": "14",
       "plan_windows": [
@@ -302,7 +302,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.94,
       "id": "10678:15:1",
       "observation": "15",
       "plan_windows": [
@@ -322,7 +322,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.94,
       "id": "10678:16:1",
       "observation": "16",
       "plan_windows": [
@@ -342,7 +342,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.95,
       "id": "10678:17:1",
       "observation": "17",
       "plan_windows": [
@@ -362,7 +362,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.99,
       "id": "10678:18:1",
       "observation": "18",
       "plan_windows": [
@@ -382,7 +382,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.98,
+      "hours": 0.95,
       "id": "10678:19:1",
       "observation": "19",
       "plan_windows": [
@@ -402,7 +402,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.94,
       "id": "10678:20:1",
       "observation": "20",
       "plan_windows": [
@@ -422,7 +422,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.91,
       "id": "10678:21:1",
       "observation": "21",
       "plan_windows": [
@@ -462,7 +462,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.95,
       "id": "10678:23:1",
       "observation": "23",
       "plan_windows": [
@@ -482,7 +482,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 1.0,
       "id": "10678:24:1",
       "observation": "24",
       "plan_windows": [
@@ -502,7 +502,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.93,
       "id": "10678:25:1",
       "observation": "25",
       "plan_windows": [
@@ -522,7 +522,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.91,
       "id": "10678:26:1",
       "observation": "26",
       "plan_windows": [
@@ -542,7 +542,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.93,
       "id": "10678:27:1",
       "observation": "27",
       "plan_windows": [
@@ -562,7 +562,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.94,
       "id": "10678:28:1",
       "observation": "28",
       "plan_windows": [
@@ -582,7 +582,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.97,
       "id": "10678:29:1",
       "observation": "29",
       "plan_windows": [
@@ -622,7 +622,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.97,
       "id": "10678:31:1",
       "observation": "31",
       "plan_windows": [
@@ -642,7 +642,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.99,
+      "hours": 0.97,
       "id": "10678:32:1",
       "observation": "32",
       "plan_windows": [
@@ -662,7 +662,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.95,
       "id": "10678:33:1",
       "observation": "33",
       "plan_windows": [
@@ -702,7 +702,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.94,
       "id": "10678:35:1",
       "observation": "35",
       "plan_windows": [
@@ -722,7 +722,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.95,
       "id": "10678:36:1",
       "observation": "36",
       "plan_windows": [
@@ -742,7 +742,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.91,
       "id": "10678:37:1",
       "observation": "37",
       "plan_windows": [
@@ -762,7 +762,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.91,
       "id": "10678:38:1",
       "observation": "38",
       "plan_windows": [
@@ -782,7 +782,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.47,
+      "hours": 0.97,
       "id": "10678:39:1",
       "observation": "39",
       "plan_windows": [
@@ -948,7 +948,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.91,
       "id": "10678:48:1",
       "observation": "48",
       "plan_windows": [
@@ -1008,7 +1008,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 1.0,
       "id": "10678:51:1",
       "observation": "51",
       "plan_windows": [
@@ -1028,7 +1028,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.99,
+      "hours": 0.95,
       "id": "10678:52:1",
       "observation": "52",
       "plan_windows": [
@@ -1048,7 +1048,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.99,
       "id": "10678:53:1",
       "observation": "53",
       "plan_windows": [
@@ -1068,7 +1068,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.0,
+      "hours": 0.91,
       "id": "10678:54:1",
       "observation": "54",
       "plan_windows": [
@@ -1088,7 +1088,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.02,
+      "hours": 0.92,
       "id": "10678:55:1",
       "observation": "55",
       "plan_windows": [
@@ -1108,7 +1108,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.91,
+      "hours": 0.96,
       "id": "10678:56:1",
       "observation": "56",
       "plan_windows": [
@@ -1128,7 +1128,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.01,
+      "hours": 0.92,
       "id": "10678:57:1",
       "observation": "57",
       "plan_windows": [
@@ -1148,7 +1148,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.98,
       "id": "10678:58:1",
       "observation": "58",
       "plan_windows": [
@@ -1168,7 +1168,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.94,
       "id": "10678:59:1",
       "observation": "59",
       "plan_windows": [
@@ -1224,7 +1224,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.99,
+      "hours": 0.94,
       "id": "10678:62:1",
       "observation": "62",
       "plan_windows": [
@@ -1694,7 +1694,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.0,
+      "hours": 0.94,
       "id": "10678:88:1",
       "observation": "88",
       "plan_windows": [
@@ -1714,7 +1714,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.95,
       "id": "10678:89:1",
       "observation": "89",
       "plan_windows": [
@@ -1734,7 +1734,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.03,
+      "hours": 0.91,
       "id": "10678:90:1",
       "observation": "90",
       "plan_windows": [
@@ -1754,7 +1754,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 1.47,
       "id": "10678:91:1",
       "observation": "91",
       "plan_windows": [
@@ -1774,7 +1774,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.93,
+      "hours": 0.91,
       "id": "10678:92:1",
       "observation": "92",
       "plan_windows": [
@@ -1794,7 +1794,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.0,
+      "hours": 0.91,
       "id": "10678:93:1",
       "observation": "93",
       "plan_windows": [
@@ -1814,7 +1814,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.99,
       "id": "10678:94:1",
       "observation": "94",
       "plan_windows": [
@@ -1834,7 +1834,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.94,
       "id": "10678:95:1",
       "observation": "95",
       "plan_windows": [
@@ -1854,7 +1854,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.96,
       "id": "10678:96:1",
       "observation": "96",
       "plan_windows": [
@@ -1874,7 +1874,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.94,
+      "hours": 0.95,
       "id": "10678:97:1",
       "observation": "97",
       "plan_windows": [
@@ -1930,7 +1930,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.97,
+      "hours": 0.92,
       "id": "10678:199:1",
       "observation": "199",
       "plan_windows": [
@@ -1968,7 +1968,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.96,
+      "hours": 0.93,
       "id": "10678:101:1",
       "observation": "101",
       "plan_windows": [
@@ -2062,7 +2062,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.92,
+      "hours": 0.95,
       "id": "10678:204:1",
       "observation": "204",
       "plan_windows": [
@@ -2190,7 +2190,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.94,
       "id": "10678:210:1",
       "observation": "210",
       "plan_windows": [
@@ -2251,8 +2251,28 @@
       "observation": "113",
       "plan_windows": [],
       "start_time": "Sep 13, 2026 21:14:38",
-      "status": "Archived",
-      "status_group": "completed",
+      "status": "Failed - Archived",
+      "status_group": "failed",
+      "targets": [
+        "GC_113"
+      ],
+      "visit": "1"
+    },
+    {
+      "configurations": [
+        "NIRCam Imaging",
+        "MIRI Imaging"
+      ],
+      "end_time": null,
+      "hours": 1.47,
+      "id": "10678:213:1",
+      "observation": "213",
+      "plan_windows": [
+        "Not ready for long range planning"
+      ],
+      "start_time": null,
+      "status": "Implementation",
+      "status_group": "neutral",
       "targets": [
         "GC_113"
       ],
@@ -2300,7 +2320,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 1.06,
+      "hours": 0.97,
       "id": "10678:215:1",
       "observation": "215",
       "plan_windows": [
@@ -2392,7 +2412,7 @@
         "MIRI Imaging"
       ],
       "end_time": null,
-      "hours": 0.95,
+      "hours": 0.97,
       "id": "10678:219:1",
       "observation": "219",
       "plan_windows": [
